@@ -32,3 +32,4 @@ jobs:
           name: latest-signals
           path: data/latest_signals.csv
           retention-days: 90
+
