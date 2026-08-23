@@ -42,41 +42,30 @@ def _conviction_meter(score, width=10):
 def format_ranked_report(ranked, universe_size, macro_line, total_symbols_with_hits):
     """ranked: stocks that cleared the conviction floor (screener.scoring +
     main.py's MIN_CONVICTION_SCORE), already capped to a small max. Sent to
-    Telegram -- kept short by design; the CSV/HTML artifacts carry every hit."""
+    Telegram as a quick-glance summary -- full reasoning, tags, and sparklines
+    live in the attached HTML report, so this stays a scan, not a read."""
     header = [
         f"\U0001F4CA *Nifty Value Radar* — {date.today().isoformat()}",
         f"\U0001F30D {macro_line}",
-        f"✅ {len(ranked)} of {total_symbols_with_hits} signal(s) cleared the conviction bar",
     ]
 
     if not ranked:
-        header.append("\nNo stock cleared the bar today — nothing worth acting on.")
+        header.append(f"✅ 0 of {total_symbols_with_hits} signal(s) cleared the conviction bar — nothing worth acting on today.")
         return "\n".join(header)
 
-    blocks = []
-    for i, hit in enumerate(ranked, 1):
-        strategy_names = " · ".join(_short_labels(hit["strategies"]))
-        reasons = hit["reasons"][:MAX_REASONS_IN_TELEGRAM]
-        reason_lines = "\n".join(f"   • {r}" for r in reasons)
-        if len(hit["reasons"]) > MAX_REASONS_IN_TELEGRAM:
-            reason_lines += f"\n   • +{len(hit['reasons']) - MAX_REASONS_IN_TELEGRAM} more reason(s) — see HTML report"
-        price_bit = f"₹{hit['price']:.2f}" if hit.get("price") is not None else ""
-        trend = hit.get("trend") or ""
-        trend_bit = f"{TREND_EMOJI.get(trend, '')} {trend}".strip()
+    header.append(f"✅ {len(ranked)} of {total_symbols_with_hits} signal(s) cleared the conviction bar — full report attached below.")
 
-        blocks.append(
-            f"{i}. *{hit['symbol']}* — {hit['company']}\n"
-            f"   {price_bit}   {trend_bit}\n"
-            f"   {_conviction_meter(hit['score'])}  {hit['score']}/10\n"
-            f"   \U0001F3F7 {strategy_names}\n"
-            f"{reason_lines}"
-        )
+    lines = []
+    for i, hit in enumerate(ranked, 1):
+        price_bit = f"₹{hit['price']:.2f}" if hit.get("price") is not None else ""
+        trend_emoji = TREND_EMOJI.get(hit.get("trend") or "", "")
+        lines.append(f"{i}. *{hit['symbol']}*  {price_bit} {trend_emoji}  —  {hit['score']}/10")
 
     footer = (
         "_Not investment advice. Rules-based screen only — verify fundamentals "
         "and do your own research before acting._"
     )
-    return "\n".join(header) + "\n\n" + "\n\n".join(blocks) + "\n\n" + footer
+    return "\n".join(header) + "\n\n" + "\n".join(lines) + "\n\n" + footer
 
 
 def _html_escape(text):
@@ -209,6 +198,14 @@ body {{
   max-width: 46rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem;
   font-variant-numeric: tabular-nums;
 }}
+.masthead {{
+  display: flex; align-items: center; gap: 0.6rem; padding-bottom: 1.1rem;
+  margin-bottom: 1.75rem; border-bottom: 2px solid var(--line);
+}}
+.masthead .icon {{ font-size: 1.4rem; }}
+.masthead .brand {{
+  font-family: var(--font-display); font-weight: 600; font-size: 1.2rem; letter-spacing: -0.01em;
+}}
 header {{ display: flex; flex-direction: column; gap: 0.9rem; margin-bottom: 2rem; }}
 .eyebrow {{
   font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.12em;
@@ -290,6 +287,10 @@ footer {{ margin-top: 2.5rem; color: var(--ink-dim); font-size: 0.8rem; line-hei
 </style>
 </head>
 <body>
+<div class="masthead">
+  <span class="icon">\U0001F4C8</span>
+  <span class="brand">Nifty Value Radar</span>
+</div>
 <header>
   <span class="eyebrow">Nifty 500 · Daily Screen</span>
   <h1>{today}</h1>

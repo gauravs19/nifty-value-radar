@@ -2,8 +2,10 @@ name: Daily Stock Screen
 
 on:
   schedule:
-    # 11:00 UTC = 4:30pm IST, after NSE close (3:30pm IST)
-    - cron: "0 11 * * 1-5"
+    # 01:30 UTC = 7:00am IST, weekdays -- previous close's data is fully
+    # settled overnight, and this lands well before the 9:15am IST open
+    # so the report is something to act on, not something to review after.
+    - cron: "30 1 * * 1-5"
   workflow_dispatch: {}
 
 jobs:
