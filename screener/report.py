@@ -12,6 +12,23 @@ STRATEGY_LABELS = {
     "relative_strength_leader": "\U0001F3C1 Relative Strength Leader (vs Nifty)",
 }
 
+# Short, underscore-free names for inline use (Telegram tags, HTML pills) --
+# raw strategy_name keys contain underscores, which Telegram's Markdown parser
+# reads as italic markers and can break the whole message.
+STRATEGY_SHORT_LABELS = {
+    "value_trend_combo": "Value + Trend",
+    "pure_technical_swing": "Technical Swing",
+    "pure_value": "Pure Value",
+    "coffee_can_compounder": "Coffee Can",
+    "minervini_trend": "Minervini Trend",
+    "breakout_52w_high": "52W Breakout",
+    "relative_strength_leader": "RS Leader",
+}
+
+
+def _short_labels(strategy_keys):
+    return [STRATEGY_SHORT_LABELS.get(s, s) for s in strategy_keys]
+
 
 def format_ranked_report(ranked, universe_size, macro_line, total_symbols_with_hits):
     """ranked: stocks that cleared the conviction floor (screener.scoring +
@@ -26,7 +43,7 @@ def format_ranked_report(ranked, universe_size, macro_line, total_symbols_with_h
         return "\n".join(lines)
 
     for i, hit in enumerate(ranked, 1):
-        strategy_names = ", ".join(hit["strategies"])
+        strategy_names = ", ".join(_short_labels(hit["strategies"]))
         reason_str = "; ".join(hit["reasons"])
         price_line = f" — ₹{hit['price']:.2f}, {hit['trend']}" if hit.get("price") is not None else ""
         lines.append(
@@ -107,7 +124,7 @@ def format_html_report(results_by_strategy, universe_size, macro_line="", ranked
             {price_html}
             {_trend_chip(h.get('trend'))}
           </div>
-          <div class="tags">{''.join(f"<span class='tag'>{_html_escape(s)}</span>" for s in h['strategies'])}</div>
+          <div class="tags">{''.join(f"<span class='tag'>{_html_escape(s)}</span>" for s in _short_labels(h['strategies']))}</div>
           <p class="reasons">{_html_escape('; '.join(h['reasons']))}</p>
         </div>
         <div class="score">
