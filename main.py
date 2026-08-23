@@ -12,7 +12,7 @@ from screener.price_data import fetch_history
 from screener.indicators import compute_indicators
 from screener.fundamentals import load_cache
 from screener.strategies import evaluate_all
-from screener.report import format_report
+from screener.report import format_report, format_html_report
 from screener.notify import send_telegram
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
@@ -65,6 +65,10 @@ def run():
         writer = csv.DictWriter(f, fieldnames=["strategy", "symbol", "company", "reasons"])
         writer.writeheader()
         writer.writerows(csv_rows)
+
+    html_report = format_html_report(results_by_strategy, len(histories))
+    with open(os.path.join(DATA_DIR, "latest_report.html"), "w", encoding="utf-8") as f:
+        f.write(html_report)
 
 
 if __name__ == "__main__":

@@ -33,3 +33,10 @@ jobs:
           path: data/latest_signals.csv
           retention-days: 90
 
+      - name: Upload HTML report
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-report-html
+          path: data/latest_report.html
+          retention-days: 90
+
