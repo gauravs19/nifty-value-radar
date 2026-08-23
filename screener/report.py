@@ -30,32 +30,53 @@ def _short_labels(strategy_keys):
     return [STRATEGY_SHORT_LABELS.get(s, s) for s in strategy_keys]
 
 
+MAX_REASONS_IN_TELEGRAM = 3   # a 10/10 stock can stack 5 strategies' worth of reasons -- keep the message scannable
+TREND_EMOJI = {"Uptrend": "\U0001F4C8", "Downtrend": "\U0001F4C9"}
+
+
+def _conviction_meter(score, width=10):
+    filled = max(0, min(width, round(score)))
+    return "█" * filled + "░" * (width - filled)
+
+
 def format_ranked_report(ranked, universe_size, macro_line, total_symbols_with_hits):
     """ranked: stocks that cleared the conviction floor (screener.scoring +
     main.py's MIN_CONVICTION_SCORE), already capped to a small max. Sent to
     Telegram -- kept short by design; the CSV/HTML artifacts carry every hit."""
-    lines = [f"*Daily Stock Screen — {date.today().isoformat()}*",
-             f"Scanned {universe_size} stocks · {macro_line}",
-             f"{len(ranked)} of {total_symbols_with_hits} stock(s) with signals cleared the conviction bar:\n"]
+    header = [
+        f"\U0001F4CA *Nifty Value Radar* — {date.today().isoformat()}",
+        f"\U0001F30D {macro_line}",
+        f"✅ {len(ranked)} of {total_symbols_with_hits} signal(s) cleared the conviction bar",
+    ]
 
     if not ranked:
-        lines.append("No stock cleared the conviction bar today -- no signals worth acting on.")
-        return "\n".join(lines)
+        header.append("\nNo stock cleared the bar today — nothing worth acting on.")
+        return "\n".join(header)
 
+    blocks = []
     for i, hit in enumerate(ranked, 1):
-        strategy_names = ", ".join(_short_labels(hit["strategies"]))
-        reason_str = "; ".join(hit["reasons"])
-        price_line = f" — ₹{hit['price']:.2f}, {hit['trend']}" if hit.get("price") is not None else ""
-        lines.append(
-            f"{i}. *{hit['symbol']}* ({hit['company']}){price_line} — conviction {hit['score']}/10\n"
-            f"   {strategy_names}\n   {reason_str}"
+        strategy_names = " · ".join(_short_labels(hit["strategies"]))
+        reasons = hit["reasons"][:MAX_REASONS_IN_TELEGRAM]
+        reason_lines = "\n".join(f"   • {r}" for r in reasons)
+        if len(hit["reasons"]) > MAX_REASONS_IN_TELEGRAM:
+            reason_lines += f"\n   • +{len(hit['reasons']) - MAX_REASONS_IN_TELEGRAM} more reason(s) — see HTML report"
+        price_bit = f"₹{hit['price']:.2f}" if hit.get("price") is not None else ""
+        trend = hit.get("trend") or ""
+        trend_bit = f"{TREND_EMOJI.get(trend, '')} {trend}".strip()
+
+        blocks.append(
+            f"{i}. *{hit['symbol']}* — {hit['company']}\n"
+            f"   {price_bit}   {trend_bit}\n"
+            f"   {_conviction_meter(hit['score'])}  {hit['score']}/10\n"
+            f"   \U0001F3F7 {strategy_names}\n"
+            f"{reason_lines}"
         )
 
-    lines.append(
-        "\n_Not investment advice. Rules-based screen only — verify fundamentals "
+    footer = (
+        "_Not investment advice. Rules-based screen only — verify fundamentals "
         "and do your own research before acting._"
     )
-    return "\n".join(lines)
+    return "\n".join(header) + "\n\n" + "\n\n".join(blocks) + "\n\n" + footer
 
 
 def _html_escape(text):

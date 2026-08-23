@@ -3,6 +3,7 @@ import os
 import requests
 
 TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
+TELEGRAM_DOCUMENT_API = "https://api.telegram.org/bot{token}/sendDocument"
 MAX_LEN = 3900  # Telegram hard cap is 4096; leave margin
 
 
@@ -23,3 +24,23 @@ def send_telegram(text, token=None, chat_id=None):
         )
         if resp.status_code != 200:
             print(f"Telegram send failed: {resp.status_code} {resp.text}")
+
+
+def send_telegram_document(file_path, caption=None, token=None, chat_id=None):
+    """Sends a file (e.g. the full HTML report) as a document, so the full
+    visual report is one tap away in Telegram instead of a CI artifact download."""
+    token = token or os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = chat_id or os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        print(f"TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set -- skipping document send of {file_path}")
+        return
+
+    with open(file_path, "rb") as f:
+        resp = requests.post(
+            TELEGRAM_DOCUMENT_API.format(token=token),
+            data={"chat_id": chat_id, "caption": (caption or "")[:1024]},
+            files={"document": (os.path.basename(file_path), f, "text/html")},
+            timeout=30,
+        )
+    if resp.status_code != 200:
+        print(f"Telegram document send failed: {resp.status_code} {resp.text}")

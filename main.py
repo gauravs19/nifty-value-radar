@@ -16,7 +16,7 @@ from screener.strategies import evaluate_all, liquidity_ok, INDICATOR_LOOKBACK, 
 from screener.macro import fetch_macro_pulse, format_macro_line
 from screener.scoring import score_hits
 from screener.report import format_html_report, format_ranked_report
-from screener.notify import send_telegram
+from screener.notify import send_telegram, send_telegram_document
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 MIN_CONVICTION_SCORE = 5.0  # a stock must clear this to reach Telegram at all
@@ -101,8 +101,14 @@ def run():
         writer.writerows(csv_rows)
 
     html_report = format_html_report(results_by_strategy, len(histories), macro_line, top_ranked)
-    with open(os.path.join(DATA_DIR, "latest_report.html"), "w", encoding="utf-8") as f:
+    html_path = os.path.join(DATA_DIR, "latest_report.html")
+    with open(html_path, "w", encoding="utf-8") as f:
         f.write(html_report)
+
+    send_telegram_document(
+        html_path,
+        caption=f"Full report — {len(top_ranked)} conviction pick(s), {len(ranked)} total signal(s) today.",
+    )
 
 
 if __name__ == "__main__":
