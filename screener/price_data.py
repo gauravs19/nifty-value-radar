@@ -28,3 +28,16 @@ def fetch_history(yf_symbols, period="1y", pause=1.0):
                 continue
         time.sleep(pause)
     return out
+
+
+def fetch_benchmark_return(symbol="^NSEI", lookback_days=63):
+    """Returns the benchmark's % return over the last lookback_days trading
+    days, or None if unavailable -- used as the relative-strength baseline."""
+    try:
+        hist = yf.Ticker(symbol).history(period="1y", auto_adjust=True)
+        closes = hist["Close"].dropna()
+        if len(closes) <= lookback_days:
+            return None
+        return (closes.iloc[-1] / closes.iloc[-lookback_days - 1] - 1) * 100
+    except Exception:
+        return None

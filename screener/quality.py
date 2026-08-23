@@ -57,7 +57,10 @@ def coffee_can_flag(statements, roce_min=0.15, revenue_cagr_min=0.10):
     cagr = (revenue.iloc[-1] / revenue.iloc[0]) ** (1 / n_years) - 1
 
     ok = avg_roce >= roce_min and cagr >= revenue_cagr_min
-    reasons = [f"{len(roce_by_year)}y avg ROCE {avg_roce*100:.0f}%", f"{n_years}y revenue CAGR {cagr*100:.0f}%"]
+    reasons = [
+        f"Consistently profitable, compounding business: {avg_roce*100:.0f}% average return on capital "
+        f"over {len(roce_by_year)} years, growing revenue {cagr*100:.0f}% a year"
+    ]
     return ok, reasons if ok else []
 
 

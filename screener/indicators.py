@@ -21,9 +21,22 @@ def compute_indicators(hist: pd.DataFrame) -> pd.DataFrame:
     """hist must have a 'Close' and 'Volume' column, DatetimeIndex ascending."""
     out = hist.copy()
     out["sma50"] = sma(out["Close"], 50)
+    out["sma150"] = sma(out["Close"], 150)
     out["sma200"] = sma(out["Close"], 200)
     out["rsi14"] = rsi(out["Close"], 14)
     out["vol_avg20"] = out["Volume"].rolling(20, min_periods=20).mean()
     out["52w_high"] = out["Close"].rolling(252, min_periods=60).max()
     out["52w_low"] = out["Close"].rolling(252, min_periods=60).min()
     return out
+
+
+def trend_label(row):
+    """Plain-language read of where price sits relative to its moving averages."""
+    close, sma50, sma200 = row.get("Close"), row.get("sma50"), row.get("sma200")
+    if any(v is None or v != v for v in (close, sma50, sma200)):
+        return "Not enough history"
+    if close > sma50 > sma200:
+        return "Uptrend"
+    if close < sma50 < sma200:
+        return "Downtrend"
+    return "Mixed / sideways"
