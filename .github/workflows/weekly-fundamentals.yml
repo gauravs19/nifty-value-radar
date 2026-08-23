@@ -27,7 +27,7 @@ jobs:
           curl -s -A "Mozilla/5.0" -o data/nifty500.csv \
             https://archives.nseindia.com/content/indices/ind_nifty500list.csv
 
-      - name: Refresh fundamentals cache (slow: ~2 req/ticker)
+      - name: "Refresh fundamentals cache (slow: ~2 req/ticker)"
         run: python scripts/refresh_fundamentals.py
 
       - name: Commit updated cache
