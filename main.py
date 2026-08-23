@@ -5,6 +5,7 @@ import csv
 import io
 import os
 import sys
+from datetime import datetime
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
@@ -105,9 +106,11 @@ def run():
     with open(html_path, "w", encoding="utf-8") as f:
         f.write(html_report)
 
+    stamp = datetime.now().strftime("%Y-%m-%d_%H%M")
     send_telegram_document(
         html_path,
         caption=f"Full report — {len(top_ranked)} conviction pick(s), {len(ranked)} total signal(s) today.",
+        filename=f"nifty-value-radar_{stamp}.html",
     )
 
 

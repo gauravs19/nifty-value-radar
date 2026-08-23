@@ -26,9 +26,12 @@ def send_telegram(text, token=None, chat_id=None):
             print(f"Telegram send failed: {resp.status_code} {resp.text}")
 
 
-def send_telegram_document(file_path, caption=None, token=None, chat_id=None):
+def send_telegram_document(file_path, caption=None, filename=None, token=None, chat_id=None):
     """Sends a file (e.g. the full HTML report) as a document, so the full
-    visual report is one tap away in Telegram instead of a CI artifact download."""
+    visual report is one tap away in Telegram instead of a CI artifact download.
+    filename overrides what Telegram displays -- the on-disk name (e.g.
+    latest_report.html) is otherwise the same every day and old reports
+    become indistinguishable in the chat history."""
     token = token or os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = chat_id or os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
@@ -39,7 +42,7 @@ def send_telegram_document(file_path, caption=None, token=None, chat_id=None):
         resp = requests.post(
             TELEGRAM_DOCUMENT_API.format(token=token),
             data={"chat_id": chat_id, "caption": (caption or "")[:1024]},
-            files={"document": (os.path.basename(file_path), f, "text/html")},
+            files={"document": (filename or os.path.basename(file_path), f, "text/html")},
             timeout=30,
         )
     if resp.status_code != 200:
