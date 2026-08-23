@@ -1,0 +1,39 @@
+name: Weekly Fundamentals Refresh
+
+on:
+  schedule:
+    # Sunday 03:00 UTC, well outside market hours, before the Monday screen run
+    - cron: "0 3 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh Nifty 500 constituent list
+        run: |
+          curl -s -A "Mozilla/5.0" -o data/nifty500.csv \
+            https://archives.nseindia.com/content/indices/ind_nifty500list.csv
+
+      - name: Refresh fundamentals cache (slow: ~2 req/ticker)
+        run: python scripts/refresh_fundamentals.py
+
+      - name: Commit updated cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/nifty500.csv data/fundamentals_cache.csv
+          git diff --cached --quiet || git commit -m "chore: weekly fundamentals refresh"
+          git push

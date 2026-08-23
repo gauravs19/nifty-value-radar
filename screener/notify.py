@@ -1,0 +1,25 @@
+"""Sends the daily results to Telegram via a bot."""
+import os
+import requests
+
+TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
+MAX_LEN = 3900  # Telegram hard cap is 4096; leave margin
+
+
+def send_telegram(text, token=None, chat_id=None):
+    token = token or os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = chat_id or os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        print("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set -- printing instead:\n")
+        print(text)
+        return
+
+    for i in range(0, len(text), MAX_LEN):
+        chunk = text[i:i + MAX_LEN]
+        resp = requests.post(
+            TELEGRAM_API.format(token=token),
+            data={"chat_id": chat_id, "text": chunk, "parse_mode": "Markdown"},
+            timeout=15,
+        )
+        if resp.status_code != 200:
+            print(f"Telegram send failed: {resp.status_code} {resp.text}")
