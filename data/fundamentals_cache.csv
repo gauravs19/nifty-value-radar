@@ -1,502 +1,502 @@
 yf_symbol,trailingPE,priceToBook,returnOnEquity,debtToEquity,coffeeCan,coffeeCanReasons,piotroskiScore,fetched_at
-360ONE.NS,33.68581,3.918925,0.1265,167.375,False,,2,1792914731
-ABB.NS,83.639824,13.937093,0.19131,1.547,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 15% a year",5,1792914732
-ACC.NS,11.435053,1.0594397,,2.085,False,,4,1792914734
-ACMESOLAR.NS,38.374615,4.4500427,,393.194,False,,6,1792914735
-AIAENG.NS,26.377771,4.1612167,,0.128,False,,7,1792914736
-APLAPOLLO.NS,45.938557,10.66294,,9.396,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 13% a year",8,1792914737
-AUBANK.NS,24.634277,3.494924,,,False,,6,1792914738
-AWL.NS,19.362417,2.1442907,,10.621,False,,6,1792914738
-AADHARHFC.NS,17.084627,2.5428429,,255.574,False,,4,1792914739
-AARTIIND.NS,29.264202,2.595286,,83.392,False,,7,1792914740
-AAVAS.NS,12.9305935,1.7468077,,310.553,False,,5,1792914741
-ABBOTINDIA.NS,32.94028,11.140532,,3.602,False,,5,1792914742
-ACE.NS,27.250679,5.9181714,,0.393,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 15% a year",5,1792914743
-ACUTAAS.NS,66.759575,15.538938,,2.081,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 29% a year",6,1792914744
-ADANIENSOL.NS,39.52057,4.6826363,0.13699001,169.745,False,,7,1792914745
-ADANIENT.NS,39.925854,3.9566731,,119.56,False,,5,1792914745
-ADANIGREEN.NS,107.73636,9.53258,0.07338,375.343,False,,5,1792914746
-ADANIPORTS.NS,29.061272,4.0881643,,64.051,False,,5,1792914747
-ADANIPOWER.NS,19.263493,4.5711126,0.27018,80.458,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 13% a year",4,1792914748
-ATGL.NS,90.823326,11.216794,0.13256,52.963,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 10% a year",5,1792914749
-ABCAPITAL.NS,22.43217,2.6425734,,495.936,False,,3,1792914750
-ABREL.NS,,3.1155853,,152.371,False,,5,1792914751
-ABSLAMC.NS,26.117802,6.6248136,0.26514998,1.559,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 15% a year",5,1792914752
-CPPLUS.NS,92.95154,23.837618,,9.604,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 23% a year",5,1792914753
-AEGISLOG.NS,34.98457,7.2298098,,47.243,False,,7,1792914754
-AEGISVOPAK.NS,106.9163,6.2674313,,84.438,False,,7,1792914755
-AETHER.NS,79.543915,7.6321316,,18.646,False,,6,1792914756
-AFCONS.NS,56.14433,1.4701139,,66.542,False,,2,1792914756
-AFFLE.NS,39.167156,5.099671,,0.405,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 24% a year",7,1792914757
-AJANTPHARM.NS,36.17028,9.062684,,5.874,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 13% a year",5,1792914758
-ALKEM.NS,27.416315,4.2799115,,14.267,False,,4,1792914759
-ABDL.NS,85.90678,11.316073,,68.251,False,,5,1792914760
-ARE&M.NS,13.643042,1.5529768,,5.015,False,,6,1792914761
-AMBER.NS,221.40486,4.833467,,46.566,False,,6,1792914762
-AMBUJACEM.NS,20.322763,1.4948249,,1.205,False,,5,1792914763
-ANANDRATHI.NS,82.35078,28.79598,0.42988998,5.337,True,"Consistently profitable, compounding business: 52% average return on capital over 4 years, growing revenue 28% a year",6,1792914764
-ANANTRAJ.NS,27.90303,2.8622584,,11.703,False,,3,1792914765
-ANGELONE.NS,22.572817,3.8193016,0.18416001,113.707,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 20% a year",5,1792914765
-ANTHEM.NS,80.07882,15.006,,1.772,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 26% a year",8,1792914766
-ANURAS.NS,71.62549,3.7581878,,41.317,False,,6,1792914767
-APARINDS.NS,48.99983,10.709505,,17.716,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 17% a year",4,1792914768
-APOLLOHOSP.NS,53.214928,11.724094,,85.146,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 15% a year",6,1792914769
-APOLLOTYRE.NS,14.233049,1.4538085,,21.987,False,,7,1792914770
-APTUS.NS,9.998473,1.9442657,,156.2,False,,5,1792914771
-ASAHIINDIA.NS,52.08503,5.7943873,,55.868,False,,6,1792914772
-ASHOKLEY.NS,24.484797,5.9783053,,344.737,False,,4,1792914772
-ASIANPAINT.NS,46.4372,10.354253,,17.847,False,,7,1792914773
-ASTERDM.NS,104.49757,7.261107,,45.921,False,,5,1792914774
-ASTRAL.NS,63.322445,8.983899,,6.168,False,,6,1792914775
-ATHERENERG.NS,,20.527163,,25.819,False,,5,1792914776
-ATUL.NS,21.26702,2.6385124,,2.907,False,,8,1792914777
-AUROPHARMA.NS,24.557812,2.409138,,21.31,False,,6,1792914778
-AIIL.NS,20.062601,2.8643174,,24.59,True,"Consistently profitable, compounding business: 43% average return on capital over 4 years, growing revenue 44% a year",4,1792914779
-AVANTIFEED.NS,16.900951,2.8015723,,0.357,False,,5,1792914780
-DMART.NS,67.80545,7.891646,0.12720999,16.338,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 17% a year",6,1792914780
-AXISBANK.NS,12.704789,1.6388301,0.13885,,False,,3,1792914781
-AZAD.NS,115.34202,10.473985,,31.025,False,,4,1792914782
-BEML.NS,25.921312,5.255702,,10.529,False,,4,1792914783
-BLS.NS,12.169491,3.4786823,,15.468,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 26% a year",8,1792914784
-BSE.NS,47.000294,16.639112,,0.0,True,"Consistently profitable, compounding business: 33% average return on capital over 4 years, growing revenue 77% a year",7,1792914785
-BAGMANE.NS,,,,,False,,0,1792914786
-BAJAJ-AUTO.NS,23.952438,7.2494435,,56.352,True,"Consistently profitable, compounding business: 27% average return on capital over 4 years, growing revenue 19% a year",6,1792914787
-BAJFINANCE.NS,26.211908,4.692757,0.19026,342.416,False,,3,1792914788
-BAJAJFINSV.NS,26.274012,3.3959029,,256.404,False,,3,1792914789
-BAJAJHLDNG.NS,14.041061,1.7001984,0.11598,0.012,False,,6,1792914790
-BAJAJHFL.NS,22.982195,2.6817868,0.12416001,492.126,False,,3,1792914790
-BALKRISIND.NS,29.016642,3.7229574,,37.524,False,,5,1792914791
-BALRAMCHIN.NS,35.140038,3.1234138,,76.606,False,,5,1792914792
-BANDHANBNK.NS,17.865314,0.9429179,,,False,,3,1792914793
-BANKBARODA.NS,6.5727296,0.7083191,0.113170005,,False,,5,1792914794
-BANKINDIA.NS,4.767103,0.6631434,0.13697,,False,,4,1792914795
-MAHABANK.NS,7.693565,1.6233109,0.22961001,,False,,4,1792914796
-BATAINDIA.NS,55.74758,5.105723,,86.9,False,,6,1792914797
-BELRISE.NS,34.123745,3.4745445,,29.1,False,,8,1792914797
-BERGEPAINT.NS,44.669544,7.8622613,,9.165,False,,6,1792914798
-BHARATCOAL.NS,,2.3982592,,38.792,False,,3,1792914799
-BDL.NS,71.60451,8.787992,,0.007,False,,5,1792914800
-BEL.NS,43.09524,11.030868,,0.273,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 15% a year",7,1792914801
-BHARATFORG.NS,115.85646,8.539859,,76.475,False,,6,1792914802
-BHEL.NS,46.856102,5.038553,0.11255,22.496,False,,8,1792914803
-BPCL.NS,7.624392,1.187483,0.16174999,62.165,False,,7,1792914804
-BHARTIARTL.NS,39.550583,7.291919,0.20151,100.415,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 15% a year",7,1792914805
-BHARTIHEXA.NS,44.910885,11.429548,,85.654,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 12% a year",8,1792914806
-GROWW.NS,42.411213,11.626953,,3.028,False,,2,1792914807
-BIOCON.NS,95.71005,1.5394719,,42.145,False,,6,1792914808
-BSOFT.NS,14.940974,2.06415,,3.422,False,,5,1792914808
-BBOX.NS,61.740795,11.104215,,89.594,False,,5,1792914809
-BLUESTARCO.NS,60.516754,8.981264,,23.588,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 16% a year",6,1792914810
-BOSCHLTD.NS,55.018906,8.75857,,0.8,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 10% a year",6,1792914811
-FIRSTCRY.NS,,1.6252204,,29.762,False,,6,1792914812
-BRIGADE.NS,25.720993,26.184668,,84.316,False,,4,1792914813
-BRITANNIA.NS,41.97484,21.404583,,26.875,False,,8,1792914814
-BIRET.NS,35.462986,1.1266515,,,False,,5,1792914815
-CCL.NS,26.213173,4.549853,0.19443001,46.024,False,,8,1792914816
-CESC.NS,10.6658125,1.3208926,,164.311,False,,5,1792914817
-CGPOWER.NS,93.27408,16.07125,,1.446,True,"Consistently profitable, compounding business: 38% average return on capital over 4 years, growing revenue 21% a year",5,1792914818
-CIEINDIA.NS,14.401884,1.7224315,,6.63,False,,6,1792914819
-CRISIL.NS,38.78766,11.453926,0.29052,10.23,False,,5,1792914819
-CANFINHOME.NS,8.17069,1.4682962,0.19409999,608.658,False,,5,1792914820
-CANBK.NS,5.16956,0.8234444,0.1512,,False,,4,1792914821
-CANHLIFE.NS,88.47518,7.2829704,0.08396,15.256,False,,3,1792914822
-CAPLIPOINT.NS,25.458296,4.809274,,0.127,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 14% a year",5,1792914823
-CGCL.NS,20.19178,3.1564012,,334.728,False,,4,1792914824
-CARBORUNIV.NS,93.01989,5.0253267,,10.292,False,,6,1792914825
-CARTRADE.NS,60.96628,5.4349422,,5.363,False,,8,1792914825
-CASTROLIND.NS,18.139795,10.131168,0.56996,2.784,False,,7,1792914826
-CEATLTD.NS,23.928375,2.4860513,0.10792,81.807,False,,7,1792914827
-CEMPRO.NS,32.83552,8.232152,,37.711,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 25% a year",7,1792914828
-CENTRALBK.NS,5.419173,0.62736654,0.1201,,False,,5,1792914829
-CDSL.NS,52.7051,12.674765,,0.11,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 27% a year",6,1792914830
-CMPDI.NS,19.550478,5.7530174,,0.064,True,"Consistently profitable, compounding business: 39% average return on capital over 4 years, growing revenue 19% a year",6,1792914831
-CHAMBLFERT.NS,7.561812,1.3992319,,10.274,False,,5,1792914832
-CHENNPETRO.NS,3.8537476,1.616483,0.50865,16.197,False,,6,1792914833
-CHOICEIN.NS,59.81272,8.122671,,49.768,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 42% a year",4,1792914834
-CHOLAHLDNG.NS,9.003589,1.5546724,,623.156,False,,4,1792914835
-CHOLAFIN.NS,21.650644,4.094809,,695.283,False,,4,1792914836
-CIPLA.NS,32.08633,3.1389809,,1.778,False,,5,1792914836
-CUB.NS,15.723797,2.0820165,,,False,,4,1792914837
-CLEANMAX.NS,86.14652,2.9682076,,231.875,False,,7,1792914838
-CLEAN.NS,32.56504,4.790488,,0.135,False,,5,1792914839
-COALINDIA.NS,7.850089,2.0563433,,11.629,False,,6,1792914840
-COCHINSHIP.NS,44.07966,5.106141,,28.466,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 27% a year",5,1792914841
-COFORGE.NS,37.28664,6.6915007,,7.518,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 27% a year",6,1792914842
-COHANCE.NS,164.78023,4.408825,,9.928,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 18% a year",5,1792914843
-COLPAL.NS,32.055122,26.982498,0.85115,3.012,False,,5,1792914843
-CAMS.NS,32.69618,12.202907,,4.863,True,"Consistently profitable, compounding business: 51% average return on capital over 4 years, growing revenue 16% a year",7,1792914844
-CONCORDBIO.NS,42.345848,6.375839,,0.115,False,,6,1792914845
-CONCOR.NS,25.039684,2.4136124,,7.39,False,,6,1792914846
-COROMANDEL.NS,27.660603,4.0288825,,11.469,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 10% a year",5,1792914847
-CRAFTSMAN.NS,54.050713,7.6652207,,111.011,False,,6,1792914848
-CREDITACC.NS,10.421992,1.8476789,0.1973,282.89,False,,5,1792914849
-CROMPTON.NS,,4.1509113,-0.04422,5.783,False,,6,1792914850
-CUMMINSIND.NS,50.874813,14.208713,,0.431,True,"Consistently profitable, compounding business: 33% average return on capital over 4 years, growing revenue 16% a year",7,1792914851
-CUPID.NS,306.45,91.286865,,12.506,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 31% a year",5,1792914851
-CYIENT.NS,36.22209,2.397359,0.0694,49.22,False,,5,1792914852
-DLF.NS,35.629066,3.5723608,0.10311,0.69,False,,5,1792914853
-DOMS.NS,52.542755,9.323868,,10.849,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 24% a year",7,1792914854
-DABUR.NS,32.7027,5.638134,,10.907,False,,7,1792914855
-DALBHARAT.NS,31.902567,1.6601237,,40.987,False,,6,1792914856
-DATAPATTNS.NS,79.23527,12.229629,,0.304,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 27% a year",7,1792914857
-DEEPAKFERT.NS,14.577989,2.0964575,,75.969,False,,5,1792914858
-DEEPAKNTR.NS,25.188025,3.3808322,,27.903,False,,4,1792914859
-DELHIVERY.NS,305.78513,2.850781,,15.098,False,,6,1792914860
-DEVYANI.NS,,9.386645,,203.327,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 23% a year",5,1792914860
-DIVISLAB.NS,81.2086,14.175433,,0.042,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 11% a year",5,1792914861
-DIXON.NS,32.719353,12.465956,,18.457,True,"Consistently profitable, compounding business: 39% average return on capital over 4 years, growing revenue 59% a year",7,1792914862
-LALPATHLAB.NS,56.752083,12.237698,,7.83,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 11% a year",7,1792914863
-DRREDDY.NS,36.603157,2.6507442,0.07342,18.565,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 11% a year",5,1792914864
-DUMMYHEG.NS,,,,,False,,0,1792914865
-EIDPARRY.NS,24.097542,1.2695363,,23.647,False,,6,1792914866
-EIHOTEL.NS,25.316345,3.4237702,,4.666,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 13% a year",6,1792914867
-EMBASSY.NS,92.711784,1.6873988,,,False,,6,1792914867
-EICHERMOT.NS,33.623604,7.7222776,,2.048,True,"Consistently profitable, compounding business: 27% average return on capital over 4 years, growing revenue 17% a year",6,1792914868
-ELECON.NS,38.14849,3.7251518,0.10295,14.401,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 16% a year",5,1792914869
-ELGIEQUIP.NS,36.21822,7.2436433,,23.885,False,,7,1792914870
-EMAMILTD.NS,21.758018,5.5704837,,5.541,False,,5,1792914871
-EMCURE.NS,33.18463,6.779921,,30.567,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 15% a year",6,1792914872
-EMMVEE.NS,11.349206,3.7198486,0.53055,25.243,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 103% a year",7,1792914873
-ENDURANCE.NS,32.4496,4.600608,,19.393,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 18% a year",6,1792914874
-ENGINERSIN.NS,17.383512,4.3439317,,0.534,False,,7,1792914875
-ESCORTS.NS,20.905619,2.3753893,,1.309,False,,7,1792914876
-ETERNAL.NS,598.8679,9.061322,0.01588,18.412,False,,5,1792914877
-EXIDEIND.NS,30.287409,2.029208,,11.308,False,,7,1792914878
-NYKAA.NS,367.01147,63.580246,,82.829,False,,7,1792914879
-FEDERALBNK.NS,16.645508,1.9686198,0.13272001,,False,,6,1792914880
-FACT.NS,,31.390997,,295.147,False,,3,1792914881
-FINCABLES.NS,20.843052,2.7407763,,0.314,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 12% a year",5,1792914881
-FSL.NS,30.5042,4.572436,,67.135,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 17% a year",6,1792914882
-FIVESTAR.NS,11.992512,1.7934134,,111.929,False,,4,1792914883
-FORCEMOT.NS,17.261703,5.243609,,,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 22% a year",8,1792914884
-FORTIS.NS,51.36167,5.4389124,,34.15,False,,7,1792914885
-FRACTAL.NS,38.785942,3.8106601,,13.131,False,,7,1792914886
-GAIL.NS,10.90885,1.2095996,,27.809,False,,4,1792914887
-GVT&D.NS,72.237404,35.210598,,0.892,True,"Consistently profitable, compounding business: 34% average return on capital over 4 years, growing revenue 31% a year",8,1792914888
-GMRAIRPORT.NS,227.31578,-36.324642,,,False,,8,1792914889
-GABRIEL.NS,70.98395,14.407189,,10.642,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 16% a year",6,1792914890
-GALLANTT.NS,32.100117,3.7498007,0.123100005,16.979,False,,7,1792914891
-GRSE.NS,26.623747,8.1172085,,1.424,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 40% a year",5,1792914892
-GICRE.NS,6.3982215,0.57510877,0.091079995,,False,,6,1792914893
-GILLETTE.NS,35.216076,24.857721,,0.002,True,"Consistently profitable, compounding business: 63% average return on capital over 4 years, growing revenue 11% a year",6,1792914894
-GLAND.NS,41.285233,4.496384,,2.738,False,,8,1792914894
-GLAXO.NS,38.139572,17.966303,,1.467,False,,6,1792914895
-GLENMARK.NS,34.017902,5.8167663,,5.646,False,,8,1792914896
-MEDANTA.NS,57.30174,8.035479,,29.869,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 17% a year",6,1792914897
-GPIL.NS,15.097331,2.0340524,,7.582,False,,6,1792914898
-GODFRYPHLP.NS,19.035128,4.1903825,,3.757,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 22% a year",7,1792914899
-GODREJCP.NS,45.76964,6.927893,,34.899,False,,6,1792914900
-GODREJIND.NS,26.531958,2.7896059,,222.411,False,,4,1792914901
-GODREJPROP.NS,33.40402,2.3274295,0.06998,102.423,False,,4,1792914902
-GRANULES.NS,29.52266,3.8728998,,29.735,False,,6,1792914903
-GRAPHITE.NS,63.099815,2.2977066,,6.295,False,,5,1792914904
-GRASIM.NS,34.514015,1.8970381,,135.044,False,,5,1792914905
-GRAVITA.NS,24.9619,3.9888456,,29.934,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 15% a year",5,1792914905
-GESHIP.NS,5.7141767,1.2596338,,6.409,False,,7,1792914906
-FLUOROCHEM.NS,76.06573,6.0802093,,28.94,False,,6,1792914907
-GMDCLTD.NS,14.378598,1.9101433,,4.475,False,,4,1792914908
-HBLENGINE.NS,27.338423,9.5537405,,3.021,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 34% a year",7,1792914909
-HCLTECH.NS,21.041574,5.1396,0.24648,7.905,False,,7,1792914910
-HDBFS.NS,14.193141,1.893313,0.14267999,471.457,False,,5,1792914911
-HDFCAMC.NS,33.03965,11.196034,0.36407003,,True,"Consistently profitable, compounding business: 37% average return on capital over 4 years, growing revenue 24% a year",6,1792914912
-HDFCBANK.NS,15.143169,1.7546393,0.11005,,False,,6,1792914913
-HDFCLIFE.NS,55.30623,5.997023,0.11256,15.919,False,,4,1792914913
-HEGAM.NS,10.844517,0.8062364,,16.73,False,,6,1792914914
-HFCL.NS,41.897034,6.5073733,0.18656,33.675,False,,5,1792914915
-HAVELLS.NS,38.90566,6.6199226,0.17998,2.44,False,,6,1792914916
-HEROMOTOCO.NS,18.642189,4.672824,,3.57,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 12% a year",8,1792914917
-HEXT.NS,27.100918,5.367737,0.21473,10.18,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 13% a year",5,1792914918
-HSCL.NS,28.99234,4.8345256,0.1851,22.36,False,,3,1792914919
-HINDALCO.NS,11.800977,1.4137374,,72.598,False,,4,1792914920
-HAL.NS,33.900127,7.6995025,,0.16,False,,7,1792914921
-HINDCOPPER.NS,33.99063,11.556618,,3.319,True,"Consistently profitable, compounding business: 23% average return on capital over 4 years, growing revenue 23% a year",8,1792914921
-HINDPETRO.NS,50.118515,1.3660021,0.02623,140.204,False,,8,1792914922
-HINDUNILVR.NS,40.68834,8.7482395,,3.016,False,,6,1792914923
-HINDZINC.NS,10.060852,6.9933023,0.95413,22.209,False,,8,1792914924
-POWERINDIA.NS,101.90639,22.648027,,1.663,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 22% a year",7,1792914925
-HOMEFIRST.NS,18.125904,2.3995345,,243.944,False,,4,1792914926
-HONASA.NS,56.666664,9.935115,,9.586,False,,6,1792914927
-HONAUT.NS,50.49257,6.234851,,2.476,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 11% a year",5,1792914928
-HUDCO.NS,6.8682976,1.3298119,,645.775,False,,3,1792914929
-HYUNDAI.NS,30.36271,7.511897,,5.484,False,,7,1792914929
-ICICIBANK.NS,17.121454,2.5619774,0.1649,,False,,6,1792914930
-ICICILIFE.NS,34.86375,4.1848803,0.12922,17.734,False,,4,1792914931
-ICICIGI.NS,31.27087,3.8072188,0.13627,0.16,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 15% a year",5,1792914932
-ICICIAMC.NS,38.05683,24.537119,0.76232004,,True,"Consistently profitable, compounding business: 97% average return on capital over 4 years, growing revenue 29% a year",4,1792914933
-IDBI.NS,9.888745,1.133805,0.11817,,False,,6,1792914934
-IDFCFIRSTB.NS,28.023258,1.2792385,0.052649997,,False,,5,1792914934
-IFCI.NS,92.625,1.7523427,,22.723,False,,6,1792914935
-IIFL.NS,8.866745,1.4668432,0.16597,490.049,False,,4,1792914936
-INOXINDIA.NS,66.564285,15.136355,,7.251,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 18% a year",5,1792914937
-IRB.NS,20.556961,0.918656,,95.6,False,,5,1792914938
-IRCON.NS,14.858447,1.3810959,,85.833,False,,3,1792914939
-ITCHOTELS.NS,37.560097,2.7918239,,0.634,False,,7,1792914940
-ITC.NS,16.281565,4.4566174,,3.293,False,,4,1792914941
-ITI.NS,117.05435,10.875031,,40.144,False,,5,1792914942
-INDIACEM.NS,79.94936,0.96253484,0.01209,15.935,False,,6,1792914943
-INDIAMART.NS,19.217987,4.2610493,0.23146,0.974,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 17% a year",6,1792914944
-INDIANB.NS,8.531031,1.2979937,0.16139999,,False,,6,1792914944
-IEX.NS,17.754387,6.637371,,0.818,True,"Consistently profitable, compounding business: 49% average return on capital over 4 years, growing revenue 15% a year",6,1792914945
-INDHOTEL.NS,50.338055,8.15793,0.16541,22.018,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 19% a year",7,1792914946
-IOC.NS,5.2819147,0.8097377,,58.446,False,,7,1792914947
-IOB.NS,9.372549,1.4200833,0.16525999,,False,,5,1792914948
-IRCTC.NS,25.33869,8.195778,,1.874,True,"Consistently profitable, compounding business: 49% average return on capital over 4 years, growing revenue 14% a year",5,1792914949
-IRFC.NS,13.200355,1.6047678,0.12627,715.064,False,,5,1792914950
-IREDA.NS,14.283475,1.9596997,0.14441,565.121,False,,4,1792914951
-IGL.NS,15.538378,1.7231485,,0.848,False,,6,1792914952
-INDUSTOWER.NS,14.011799,2.4216006,0.18912001,51.79,False,,7,1792914953
-INDUSINDBK.NS,49.379066,0.9891115,0.04513,,False,,5,1792914954
-NAUKRI.NS,48.114357,2.02711,,0.64,False,,6,1792914955
-INFY.NS,15.363516,4.7956653,0.29951,8.567,False,,7,1792914955
-INOXWIND.NS,24.452282,1.3812581,,20.631,False,,3,1792914956
-INTELLECT.NS,23.433226,2.5494416,,4.961,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 11% a year",6,1792914957
-INDIGO.NS,,25.22192,,1112.706,True,"Consistently profitable, compounding business: 101% average return on capital over 4 years, growing revenue 16% a year",5,1792914958
-IGIL.NS,25.597715,9.407859,,8.552,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 30% a year",7,1792914959
-IKS.NS,36.204967,9.667725,,26.873,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 46% a year",6,1792914960
-IPCALAB.NS,37.832657,6.1454873,,8.492,False,,8,1792914961
-JKCEMENT.NS,39.666584,5.3296385,,87.522,False,,7,1792914962
-JBMA.NS,51.38713,10.090517,,190.282,False,,5,1792914963
-JKTYRE.NS,17.797926,1.4705043,,80.551,False,,6,1792914964
-JMFINANCIL.NS,9.76909,0.9529237,,102.435,False,,6,1792914965
-JSWCEMENT.NS,20.558876,2.395266,,68.39,False,,6,1792914966
-JSWENERGY.NS,40.446346,2.5616205,,229.16,False,,5,1792914966
-JSWINFRA.NS,44.569817,6.0575852,,59.002,False,,5,1792914967
-JSWSTEEL.NS,11.724854,2.89207,0.31928,61.529,False,,8,1792914968
-JAINREC.NS,27.360456,6.5355935,,81.887,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 45% a year",5,1792914969
-JPPOWER.NS,23.036364,1.1199505,0.03793,23.023,False,,7,1792914970
-J&KBANK.NS,5.277181,0.7097313,0.14542,,False,,3,1792914971
-JINDALSAW.NS,27.02561,1.170111,0.04125,33.946,False,,6,1792914972
-JSL.NS,17.002226,2.6667495,0.16900998,35.926,False,,6,1792914973
-JINDALSTEL.NS,36.217472,1.9742162,0.054640003,41.616,False,,7,1792914974
-JIOFIN.NS,77.95817,1.0560826,0.012949999,31.949,False,,3,1792914975
-JUBLFOOD.NS,72.401436,11.591874,,205.318,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 20% a year",7,1792914976
-JUBLINGREA.NS,30.961935,3.0425112,,25.328,False,,7,1792914977
-JWL.NS,48.03047,2.504731,,33.365,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 12% a year",3,1792914977
-JYOTICNC.NS,62.998585,10.1289425,,42.609,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 31% a year",5,1792914978
-KPRMILL.NS,38.38891,6.14685,,10.463,False,,7,1792914979
-KEI.NS,33.75011,5.34306,,3.796,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 19% a year",6,1792914980
-KPITTECH.NS,25.030546,4.09504,,23.624,True,"Consistently profitable, compounding business: 34% average return on capital over 4 years, growing revenue 24% a year",5,1792914981
-KSB.NS,48.351063,6.982568,0.15192,0.371,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 14% a year",4,1792914982
-KAJARIACER.NS,33.146687,5.9045076,,7.302,False,,8,1792914983
-KPIL.NS,19.407963,2.8363435,,45.814,False,,7,1792914984
-KALYANKJIL.NS,36.914204,8.371347,,96.966,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 36% a year",7,1792914985
-KARURVYSYA.NS,10.993789,2.1115615,0.20989001,,False,,4,1792914986
-KAYNES.NS,62.15441,4.5979214,,19.168,False,,3,1792914986
-KEC.NS,15.757212,1.4164214,,87.306,False,,4,1792914987
-KFINTECH.NS,40.57897,8.239152,,3.314,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 22% a year",6,1792914988
-KIRLOSBROS.NS,33.97703,5.1486325,,10.101,False,,5,1792914989
-KIRLOSENG.NS,47.617393,7.1655416,,154.864,False,,8,1792914990
-KOTAKBANK.NS,21.102942,2.362775,,,False,,5,1792914991
-KIMS.NS,130.42157,11.842785,,166.226,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 21% a year",5,1792914992
-LTF.NS,17.424799,2.0341568,0.12331,422.732,False,,3,1792914993
-LTTS.NS,30.671427,5.8589,0.20207001,7.863,False,,7,1792914994
-LGEINDIA.NS,59.89959,14.262439,,5.99,False,,1,1792914995
-LICHSGFIN.NS,4.6966357,0.6506786,,642.522,False,,4,1792914995
-LTFOODS.NS,20.599241,2.9157553,,35.617,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 16% a year",6,1792914996
-LTM.NS,23.465971,4.7369795,0.21041,9.186,False,,5,1792914997
-LT.NS,30.253006,4.5904818,,97.64,False,,7,1792914998
-LAURUSLABS.NS,97.38013,20.066208,,46.369,False,,8,1792914999
-LEMONTREE.NS,36.680134,6.1975203,,96.367,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 16% a year",8,1792915000
-LENSKART.NS,169.3108,12.448088,,34.983,False,,5,1792915001
-LICI.NS,8.03327,2.732632,,0.431,False,,4,1792915002
-LINDEINDIA.NS,89.34593,11.440731,,1.85,False,,6,1792915003
-LLOYDSME.NS,20.890009,7.22809,,145.214,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 71% a year",3,1792915004
-LODHA.NS,23.373787,4.131008,,42.238,False,,6,1792915005
-LUPIN.NS,15.976974,3.9283774,,29.388,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 19% a year",8,1792915005
-MMTC.NS,16.969799,3.5778973,,0.114,False,,6,1792915006
-MRF.NS,20.707367,2.3842902,,15.288,False,,8,1792915007
-MTARTECH.NS,148.88223,24.150436,,45.778,False,,6,1792915008
-MGL.NS,14.127313,1.5723066,,3.461,False,,6,1792915009
-M&MFIN.NS,10.699382,1.4008195,0.13774,490.012,False,,4,1792915010
-M&M.NS,17.417665,3.4347107,,125.278,False,,6,1792915010
-MANAPPURAM.NS,17.606153,1.674343,,360.191,False,,1,1792915011
-MRPL.NS,6.4410477,1.9955722,,108.059,False,,7,1792915012
-MANKIND.NS,44.77135,5.6037183,,38.111,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 18% a year",6,1792915013
-MARICO.NS,52.64423,23.634794,,12.394,True,"Consistently profitable, compounding business: 47% average return on capital over 4 years, growing revenue 12% a year",6,1792915014
-MARUTI.NS,24.631514,3.2949295,,0.096,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 16% a year",6,1792915015
-MFSL.NS,383.32278,7.873049,,36.453,False,,5,1792915016
-MAXHEALTH.NS,54.6613,7.3800406,,32.367,False,,8,1792915017
-MAZDOCK.NS,26.252647,7.6913853,,4.481,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 20% a year",5,1792915018
-MEESHO.NS,,22.637732,,1.428,False,,4,1792915019
-MINDACORP.NS,28.670645,5.3573503,,55.351,False,,8,1792915019
-MSUMI.NS,36.42105,10.613497,,10.788,True,"Consistently profitable, compounding business: 47% average return on capital over 4 years, growing revenue 18% a year",7,1792915020
-MOTILALOFS.NS,28.69808,4.32338,,165.8,False,,3,1792915021
-MPHASIS.NS,24.809925,4.1746836,0.17743999,24.675,False,,5,1792915022
-MCX.NS,63.080616,18.267096,,0.113,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 68% a year",6,1792915023
-MUTHOOTFIN.NS,8.376871,2.3464384,0.31735,393.56,False,,4,1792915024
-NATCOPHARM.NS,12.49566,1.5378057,,7.742,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 14% a year",4,1792915025
-NBCC.NS,25.148148,6.103371,,0.008,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 13% a year",6,1792915026
-NCC.NS,10.429084,0.92697793,,57.389,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 11% a year",3,1792915027
-NHPC.NS,18.47619,1.6972466,,113.111,False,,5,1792915028
-NLCINDIA.NS,9.690415,1.4718955,,110.358,False,,7,1792915028
-NMDC.NS,7.89881,1.7094347,,18.802,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 22% a year",6,1792915029
-NSLNISP.NS,129.51724,0.8339069,,35.019,False,,7,1792915030
-NTPCGREEN.NS,114.38029,3.6686845,,165.281,False,,5,1792915031
-NTPC.NS,10.423224,1.4228147,,128.345,False,,6,1792915032
-NH.NS,40.734604,7.3719788,,129.033,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 21% a year",6,1792915033
-NATIONALUM.NS,8.208652,2.5648327,,0.277,False,,7,1792915034
-NAVA.NS,17.75056,1.5359848,,20.684,False,,6,1792915035
-NAVINFLUOR.NS,49.805157,9.887835,,32.091,False,,7,1792915036
-NESTLEIND.NS,55.555557,39.18757,0.79863,8.035,True,"Consistently profitable, compounding business: 128% average return on capital over 3 years, growing revenue 17% a year",5,1792915037
-NETWEB.NS,94.46187,34.04419,,39.019,True,"Consistently profitable, compounding business: 34% average return on capital over 4 years, growing revenue 70% a year",5,1792915038
-NEULANDLAB.NS,48.62364,12.912211,,16.072,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 19% a year",5,1792915038
-NAM-INDIA.NS,37.111824,12.374259,0.35324,1.614,True,"Consistently profitable, compounding business: 36% average return on capital over 4 years, growing revenue 26% a year",6,1792915039
-NUVAMA.NS,28.658388,7.338959,,282.325,False,,3,1792915040
-NUVOCO.NS,28.5,1.2465829,0.04224,53.279,False,,7,1792915041
-OBEROIRLTY.NS,22.293337,3.0712888,0.14687,13.82,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 13% a year",6,1792915042
-ONGC.NS,6.575145,0.76988155,,42.548,False,,7,1792915043
-OIL.NS,8.719821,1.2558255,,58.741,False,,5,1792915044
-OLAELEC.NS,,3.9521987,,82.453,False,,3,1792915045
-OLECTRA.NS,44.224895,6.3941393,,30.841,True,"Consistently profitable, compounding business: 15% average return on capital over 4 years, growing revenue 28% a year",5,1792915046
-PAYTM.NS,161.44855,6.46515,,1.073,False,,4,1792915047
-ONESOURCE.NS,,2.6292865,,25.791,False,,4,1792915047
-OFSS.NS,23.69839,10.76137,0.49897,0.567,True,"Consistently profitable, compounding business: 40% average return on capital over 4 years, growing revenue 10% a year",6,1792915048
-POLICYBZR.NS,63.12189,6.415321,,4.922,False,,6,1792915049
-PCBL.NS,41.455505,2.6993184,,124.132,False,,4,1792915050
-PGEL.NS,65.74126,4.4057546,,19.567,False,,5,1792915051
-PIIND.NS,26.705729,2.7705731,,3.048,False,,4,1792915052
-PNBHOUSING.NS,12.284005,1.4764694,,287.733,False,,4,1792915053
-PTCIL.NS,280.1266,22.872505,0.0859,17.821,False,,4,1792915054
-PVRINOX.NS,50.3681,1.8596513,,91.874,False,,8,1792915055
-PAGEIND.NS,49.922523,25.112198,,18.422,False,,6,1792915055
-PARADEEP.NS,12.94283,2.042792,,101.822,False,,4,1792915056
-PATANJALI.NS,19.312534,2.9032123,,21.295,False,,5,1792915057
-PERSISTENT.NS,50.100594,10.518883,0.22918,6.696,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 21% a year",6,1792915058
-PETRONET.NS,10.2031355,1.9267265,,10.507,False,,6,1792915059
-PHOENIXLTD.NS,52.153202,6.0926046,,37.211,False,,7,1792915060
-PWL.NS,1499.375,7.643048,,23.018,True,"Consistently profitable, compounding business: 38% average return on capital over 4 years, growing revenue 74% a year",7,1792915061
-PIDILITIND.NS,57.26328,13.97807,,3.776,False,,8,1792915062
-PINELABS.NS,139.25226,2.9929905,,7.474,False,,8,1792915062
-PIRAMALFIN.NS,22.431786,1.3778199,0.06513,275.204,False,,5,1792915063
-PPLPHARMA.NS,,3.1066272,,69.977,False,,3,1792915064
-POLYMED.NS,46.490665,4.7122097,,11.227,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 19% a year",4,1792915065
-POLYCAB.NS,35.452206,8.562244,0.26767,2.054,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 27% a year",6,1792915066
-POONAWALLA.NS,32.29085,2.6360133,0.09206,431.207,False,,4,1792915067
-PFC.NS,4.0035477,0.7296034,,536.837,True,"Consistently profitable, compounding business: 88% average return on capital over 4 years, growing revenue 16% a year",5,1792915068
-POWERGRID.NS,14.467835,2.2896595,,150.813,False,,5,1792915069
-PREMIERENE.NS,22.938171,8.924146,,86.005,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 76% a year",5,1792915070
-PRESTIGE.NS,52.6465,3.685832,0.07752,105.493,False,,6,1792915071
-PFOCUS.NS,153.28653,10.149915,,224.567,False,,7,1792915072
-PRIVISCL.NS,36.290756,8.988857,,74.399,False,,8,1792915072
-PNB.NS,6.06398,0.8597182,0.15059,,False,,5,1792915073
-RRKABEL.NS,39.843605,9.402047,,13.092,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 20% a year",5,1792915074
-RBLBANK.NS,24.956678,1.2311051,0.04045,,False,,5,1792915075
-RECLTD.NS,4.837091,0.9191769,,607.463,False,,4,1792915076
-RHIM.NS,,2.0374782,,12.595,False,,4,1792915077
-RITES.NS,21.845444,3.400359,,0.236,False,,7,1792915077
-RADICO.NS,79.14144,16.788284,,15.033,False,,8,1792915078
-RVNL.NS,42.067284,3.8488972,,49.078,False,,4,1792915079
-RAILTEL.NS,21.243044,3.2496557,0.16254,2.817,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 30% a year",7,1792915080
-RAINBOW.NS,41.607967,7.2036557,,53.558,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 13% a year",6,1792915081
-RKFORGE.NS,101.56357,3.2521265,,74.422,False,,6,1792915082
-REDINGTON.NS,16.502758,2.7629454,,27.26,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 15% a year",5,1792915083
-RELIANCE.NS,21.550163,1.7813171,,46.278,False,,6,1792915084
-RPOWER.NS,,0.42365015,,92.348,False,,5,1792915084
-RUBICON.NS,82.05069,18.245865,,24.131,False,,1,1792915086
-SBICARD.NS,19.910583,3.3013015,,280.206,False,,6,1792915086
-SBILIFE.NS,63.271606,8.172459,0.13703,,False,,2,1792915087
-SJVN.NS,29.25926,1.3091391,,226.528,False,,6,1792915088
-SHRIPISTON.NS,33.879944,6.581577,,65.22,True,"Consistently profitable, compounding business: 23% average return on capital over 4 years, growing revenue 20% a year",5,1792915089
-SRF.NS,29.664825,4.876113,0.15981,35.123,False,,7,1792915090
-SAGILITY.NS,20.081818,2.012573,0.10735,8.819,False,,7,1792915091
-SAILIFE.NS,82.41583,11.877927,,11.614,False,,5,1792915092
-SAMMAANCAP.NS,,0.49498087,,273.033,False,,0,1792915093
-MOTHERSON.NS,36.546986,3.8977695,,43.908,False,,6,1792915094
-SANSERA.NS,76.63264,8.01806,,19.023,False,,7,1792915095
-SARDAEN.NS,13.851795,2.1243153,,35.204,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 10% a year",8,1792915096
-SCHAEFFLER.NS,43.306736,8.849256,0.21645,0.783,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 12% a year",7,1792915097
-SCHNEIDER.NS,144.87646,34.35505,,70.795,True,"Consistently profitable, compounding business: 40% average return on capital over 4 years, growing revenue 18% a year",7,1792915098
-SCI.NS,6.845135,1.2171777,,29.454,False,,6,1792915099
-SHREECEM.NS,51.805855,3.4378443,0.06852,9.112,False,,8,1792915100
-SHRIRAMFIN.NS,14.416667,1.8260078,0.1475,146.073,False,,4,1792915101
-SHYAMMETL.NS,28.226048,2.797139,,8.133,False,,6,1792915102
-ENRIN.NS,63.491264,19.637054,,4.483,False,,8,1792915103
-SIEMENS.NS,79.558716,8.350187,,2.213,False,,6,1792915104
-SIGNATURE.NS,9.578841,5.3998513,,161.04,False,,6,1792915104
-SOBHA.NS,65.69989,2.6515417,0.04089,32.991,False,,7,1792915105
-SOLARINDS.NS,83.450714,26.4744,,23.271,True,"Consistently profitable, compounding business: 31% average return on capital over 4 years, growing revenue 12% a year",6,1792915106
-SONACOMS.NS,67.21875,7.8249073,,7.213,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 19% a year",6,1792915107
-STARHEALTH.NS,37.035614,3.0771327,0.07507,,False,,4,1792915108
-SBIN.NS,10.274384,1.4227216,0.15177,,False,,3,1792915109
-SAIL.NS,15.893617,1.1256087,,52.899,False,,7,1792915110
-STLTECH.NS,60.120003,17.791576,,85.626,False,,7,1792915111
-SUMICHEM.NS,31.059433,5.3100476,,1.865,False,,5,1792915112
-SUNPHARMA.NS,34.682537,5.01859,,5.517,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 10% a year",5,1792915113
-SUNTV.NS,14.902163,1.8002774,,0.837,False,,6,1792915113
-SUNDARMFIN.NS,19.768608,2.969901,,409.161,False,,3,1792915114
-SUPREMEIND.NS,41.71281,6.9803214,,1.473,False,,5,1792915115
-SUZLON.NS,16.40351,5.2579784,0.39366,2.807,True,"Consistently profitable, compounding business: 44% average return on capital over 4 years, growing revenue 41% a year",7,1792915116
-SWANCORP.NS,35.324005,0.997596,,24.561,False,,3,1792915117
-SWIGGY.NS,,2.7716973,-0.26734,14.814,False,,5,1792915118
-SYNGENE.NS,66.821495,3.0468004,,9.473,False,,6,1792915119
-SYRMA.NS,74.524185,9.578073,,13.045,False,,6,1792915120
-TBOTEK.NS,61.96828,10.508532,,48.762,True,"Consistently profitable, compounding business: 31% average return on capital over 4 years, growing revenue 37% a year",2,1792915121
-TDPOWERSYS.NS,72.67613,18.643597,0.28465998,1.689,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 29% a year",5,1792915122
-TVSMOTOR.NS,55.165627,19.770908,,306.09,False,,6,1792915123
-TATACAP.NS,24.058823,2.8203783,,502.931,False,,2,1792915124
-TATACHEM.NS,,0.69293356,,36.081,False,,3,1792915125
-TATACOMM.NS,42.793587,13.869886,0.3376,371.497,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 12% a year",6,1792915126
-TCS.NS,17.734472,7.6931496,0.45573002,9.83,False,,5,1792915127
-TATACONSUM.NS,58.347458,4.377901,,12.159,False,,7,1792915127
-TATAELXSI.NS,34.396206,7.912357,0.23868,4.903,False,,6,1792915128
-TATAINVEST.NS,93.28231,0.94970626,,0.007,False,,5,1792915129
-TMCV.NS,35.044247,11.451375,,24.605,False,,6,1792915130
-TMPV.NS,,0.8694338,,70.364,False,,4,1792915131
-TATAPOWER.NS,28.840101,2.8176425,,168.051,False,,5,1792915132
-TATASTEEL.NS,18.945763,2.0487034,,89.017,False,,7,1792915133
-TATATECH.NS,47.42785,6.967956,0.15218,28.96,False,,5,1792915134
-TTML.NS,24.62745,-0.3686131,,,False,,5,1792915135
-TECHM.NS,28.768885,5.3447356,0.19186,7.249,False,,8,1792915136
-TECHNOE.NS,22.250402,2.3061798,,1.744,False,,3,1792915137
-TEGA.NS,454.74936,3.80029,,11.693,True,"Consistently profitable, compounding business: 15% average return on capital over 4 years, growing revenue 12% a year",6,1792915138
-TEJASNET.NS,,2.8697445,-0.2794,196.624,False,,2,1792915139
-TENNIND.NS,29.526527,14.809013,,4.289,False,,8,1792915140
-THANGAMAYL.NS,37.285374,10.295916,,64.492,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 39% a year",6,1792915141
-NIACL.NS,34.1453,0.68329144,,,False,,4,1792915141
-RAMCOCEM.NS,27.104105,2.1586998,,47.897,False,,8,1792915143
-THERMAX.NS,58.79225,6.2854905,,42.166,False,,4,1792915143
-TIMKEN.NS,48.664886,7.045783,,0.5,False,,6,1792915144
-TITAGARH.NS,47.44993,3.6714487,,25.363,False,,6,1792915145
-TITAN.NS,66.27158,24.308846,,195.001,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 29% a year",7,1792915146
-TORNTPHARM.NS,76.425674,9.359363,0.15653,76.781,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 13% a year",5,1792915147
-TORNTPOWER.NS,25.352417,3.0880911,,70.885,False,,4,1792915148
-TARIL.NS,29.940887,5.5163274,0.20497,34.449,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 21% a year",6,1792915149
-TRENT.NS,81.75959,20.822517,,36.034,True,"Consistently profitable, compounding business: 37% average return on capital over 4 years, growing revenue 35% a year",6,1792915150
-TRIDENT.NS,26.269232,2.1895704,,38.323,False,,5,1792915151
-TRITURBINE.NS,42.105015,9.770368,,2.476,True,"Consistently profitable, compounding business: 36% average return on capital over 4 years, growing revenue 20% a year",5,1792915152
-TIINDIA.NS,66.517426,5.1937675,,5.363,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 15% a year",7,1792915153
-UCOBANK.NS,9.088235,0.7800779,0.08898,,False,,5,1792915153
-UNOMINDA.NS,50.79289,8.936648,,37.74,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 20% a year",7,1792915154
-UPL.NS,21.097054,1.2375672,,57.128,False,,7,1792915155
-UTIAMC.NS,22.816252,2.3310983,,3.129,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 11% a year",5,1792915156
-ULTRACEMCO.NS,36.951576,4.417238,0.114980005,37.694,False,,8,1792915157
-UNIONBANK.NS,6.17962,0.95710415,0.16291,,False,,3,1792915158
-UBL.NS,76.37701,6.680738,,29.076,False,,5,1792915159
-UNITDSPR.NS,52.71579,9.929495,,4.611,False,,7,1792915160
-URBANCO.NS,,10.195852,-0.21533,7.15,False,,3,1792915161
-USHAMART.NS,26.91925,4.2411475,,6.922,False,,8,1792915162
-VTL.NS,16.84414,1.3574276,,17.52,False,,5,1792915163
-VBL.NS,39.510002,6.1383343,0.16853,15.869,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 17% a year",8,1792915164
-VAML.NS,35.03052,,,,False,,3,1792915165
-VISL.NS,,-3.5384614,,,False,,3,1792915165
-VEDL.NS,9.528818,1.7812766,,48.044,False,,8,1792915166
-VOGL.NS,,-0.13388392,,,False,,4,1792915167
-VEDPOWER.NS,,2.4796,0.00875,,False,,5,1792915168
-VIJAYA.NS,76.38263,14.929993,,44.15,True,"Consistently profitable, compounding business: 27% average return on capital over 4 years, growing revenue 21% a year",7,1792915169
-VMM.NS,45.973682,5.1367245,0.12133,26.886,False,,7,1792915170
-IDEA.NS,3.2927535,-3.4424243,,,False,,5,1792915171
-VOLTAS.NS,70.00737,4.929892,,15.51,False,,4,1792915172
-WAAREEENER.NS,17.77283,4.689186,,21.402,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 58% a year",5,1792915173
-WELCORP.NS,27.290071,6.882334,,25.042,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 20% a year",5,1792915174
-WELSPUNLIV.NS,72.38621,4.094482,,46.501,False,,5,1792915175
-WHIRLPOOL.NS,39.962082,2.4108567,,8.621,False,,5,1792915175
-WIPRO.NS,14.912805,2.3629575,0.15939,27.753,False,,6,1792915176
-WOCKPHARMA.NS,71.524414,6.0066075,,42.284,False,,7,1792915177
-YESBANK.NS,11.969697,0.9168988,0.08173,,False,,7,1792915178
-ZFCVINDIA.NS,2.2386086,6.5765615,,1.485,False,,6,1792915179
-ZEEL.NS,30.858492,0.5288003,,2.26,False,,4,1792915180
-ZENTEC.NS,74.54092,7.1109295,,0.95,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 46% a year",6,1792915181
-ZENSARTECH.NS,14.6324835,2.3799882,,1.68,False,,5,1792915182
-ZYDUSLIFE.NS,25.170494,4.1917505,,42.304,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 17% a year",4,1792915182
-ZYDUSWELL.NS,78.26858,2.5303771,,54.974,False,,6,1792915184
-ECLERX.NS,24.699047,6.832078,,15.012,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 16% a year",7,1792915184
+360ONE.NS,33.277027,3.8713682,0.1265,167.375,False,,2,1793526648
+ABB.NS,87.358665,14.556771,0.19131,1.547,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 15% a year",5,1793526649
+ACC.NS,24.104095,1.0268089,0.04344,2.481,False,,4,1793526651
+ACMESOLAR.NS,35.0173,3.2481964,0.11504,330.058,False,,6,1793526652
+AIAENG.NS,26.500847,4.1806326,,0.128,False,,7,1793526653
+APLAPOLLO.NS,45.90967,10.590239,0.25322,16.771,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 13% a year",8,1793526654
+AUBANK.NS,20.724396,2.9700928,0.15716,,False,,6,1793526655
+AWL.NS,18.425365,1.9480273,0.11083999,26.515,False,,6,1793526656
+AADHARHFC.NS,16.30823,2.4272854,,255.574,False,,4,1793526657
+AARTIIND.NS,26.651375,2.6531618,,83.392,False,,7,1793526658
+AAVAS.NS,12.022395,1.5613525,0.13981,305.373,False,,5,1793526660
+ABBOTINDIA.NS,33.736923,11.409809,,3.602,False,,5,1793526661
+ACE.NS,27.103542,5.8862166,,0.393,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 15% a year",5,1793526662
+ACUTAAS.NS,74.94572,17.64509,0.26114,0.789,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 29% a year",6,1793526663
+ADANIENSOL.NS,43.71558,5.179687,0.13699001,169.745,False,,7,1793526664
+ADANIENT.NS,54.98614,3.5556743,0.06436,113.711,False,,5,1793526665
+ADANIGREEN.NS,118.06363,10.446344,0.07338,375.343,False,,5,1793526667
+ADANIPORTS.NS,30.8745,4.16908,0.15635,62.663,False,,5,1793526668
+ADANIPOWER.NS,20.0,4.7458816,0.27018,80.458,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 13% a year",4,1793526669
+ATGL.NS,91.672386,11.321654,0.13256,52.963,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 10% a year",5,1793526670
+ABCAPITAL.NS,21.84802,2.3661306,0.11417,423.606,False,,3,1793526671
+ABREL.NS,,2.4321344,-0.033570003,78.8,False,,5,1793526672
+ABSLAMC.NS,23.663336,6.0022354,0.26514998,1.559,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 15% a year",5,1793526673
+CPPLUS.NS,93.28194,23.922348,,9.604,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 23% a year",5,1793526674
+AEGISLOG.NS,28.890938,5.785503,0.17274,51.01,False,,7,1793526675
+AEGISVOPAK.NS,86.30859,5.508876,0.07043,89.715,False,,7,1793526676
+AETHER.NS,86.15138,8.731544,,18.646,False,,6,1793526677
+AFCONS.NS,53.10309,1.3904804,,66.542,False,,2,1793526678
+AFFLE.NS,38.282455,5.165617,,0.405,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 24% a year",7,1793526679
+AJANTPHARM.NS,34.737156,9.022441,0.27533,3.173,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 13% a year",5,1793526680
+ALKEM.NS,28.33906,4.4239597,,14.267,False,,4,1793526682
+ABDL.NS,85.569855,11.883691,0.13321,84.092,False,,5,1793526683
+ARE&M.NS,13.636093,1.5521858,,5.015,False,,6,1793526684
+AMBER.NS,216.26106,4.7211733,,46.566,False,,6,1793526685
+AMBUJACEM.NS,30.882872,1.4432267,0.04454,1.388,False,,5,1793526686
+ANANDRATHI.NS,82.97716,29.01501,0.42988998,5.337,True,"Consistently profitable, compounding business: 52% average return on capital over 4 years, growing revenue 28% a year",6,1793526687
+ANANTRAJ.NS,26.561756,2.6574697,0.11428001,12.605,False,,3,1793526688
+ANGELONE.NS,22.835762,3.8637917,0.18416001,113.707,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 20% a year",5,1793526689
+ANTHEM.NS,81.655174,15.3013935,,1.772,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 26% a year",8,1793526690
+ANURAS.NS,74.34981,3.9011328,,41.317,False,,6,1793526691
+APARINDS.NS,46.1892,7.7044606,0.20596,11.898,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 17% a year",4,1793526692
+APOLLOHOSP.NS,58.157787,12.813086,,85.146,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 15% a year",6,1793526693
+APOLLOTYRE.NS,14.058911,1.4360214,,21.987,False,,7,1793526694
+APTUS.NS,9.734351,1.8929055,,156.2,False,,5,1793526695
+ASAHIINDIA.NS,52.7053,5.8633914,,55.868,False,,6,1793526697
+ASHOKLEY.NS,24.46284,5.9729443,,344.737,False,,4,1793526698
+ASIANPAINT.NS,45.977013,10.229863,0.23019,20.508,False,,7,1793526699
+ASTERDM.NS,110.39709,7.6710405,,45.921,False,,5,1793526700
+ASTRAL.NS,62.617825,8.883931,,6.168,False,,6,1793526701
+ATHERENERG.NS,,17.208601,-0.066989996,22.455,False,,5,1793526702
+ATUL.NS,19.178839,2.248918,0.12441,2.54,False,,8,1793526703
+AUROPHARMA.NS,26.271875,2.5772889,,21.31,False,,6,1793526704
+AIIL.NS,19.876818,2.8377934,,24.59,True,"Consistently profitable, compounding business: 43% average return on capital over 4 years, growing revenue 44% a year",4,1793526705
+AVANTIFEED.NS,16.475739,2.7310872,,0.357,False,,5,1793526707
+DMART.NS,66.8967,7.994862,0.12720999,16.338,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 17% a year",6,1793526708
+AXISBANK.NS,12.699572,1.638157,0.13885,,False,,3,1793526709
+AZAD.NS,113.78781,10.33285,,31.025,False,,4,1793526710
+BEML.NS,27.843742,5.6454864,,10.529,False,,4,1793526711
+BLS.NS,12.227937,3.495389,,15.468,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 26% a year",8,1793526712
+BSE.NS,51.06779,18.079096,,0.0,True,"Consistently profitable, compounding business: 33% average return on capital over 4 years, growing revenue 77% a year",7,1793526713
+BAGMANE.NS,,,,,False,,0,1793526714
+BAJAJ-AUTO.NS,22.077646,7.797092,0.3556,69.647,True,"Consistently profitable, compounding business: 27% average return on capital over 4 years, growing revenue 19% a year",6,1793526716
+BAJFINANCE.NS,27.00115,4.7440314,0.19026,342.416,False,,3,1793526717
+BAJAJFINSV.NS,26.474043,3.4217567,,256.404,False,,3,1793526718
+BAJAJHLDNG.NS,12.837362,1.5544454,0.11598,0.012,False,,6,1793526719
+BAJAJHFL.NS,22.973293,2.680748,0.12416001,492.126,False,,3,1793526720
+BALKRISIND.NS,28.505022,3.6573143,,37.524,False,,5,1793526721
+BALRAMCHIN.NS,32.372326,2.8774064,,76.606,False,,5,1793526722
+BANDHANBNK.NS,13.350346,0.93911827,0.07258,,False,,3,1793526723
+BANKBARODA.NS,6.2411723,0.7058566,0.11885,,False,,5,1793526725
+BANKINDIA.NS,4.8347893,0.6430006,0.1407,,False,,4,1793526726
+MAHABANK.NS,7.823077,1.6740742,0.23286,,False,,4,1793526727
+BATAINDIA.NS,55.26385,5.06142,,86.9,False,,6,1793526728
+BELRISE.NS,34.52174,3.515069,,29.1,False,,8,1793526729
+BERGEPAINT.NS,44.549812,7.841187,,9.165,False,,6,1793526730
+BHARATCOAL.NS,228.53847,2.3382652,0.0104600005,42.549,False,,3,1793526731
+BDL.NS,68.54328,8.412289,,0.007,False,,5,1793526733
+BEL.NS,42.274284,10.282426,0.26748,0.324,True,"Consistently profitable, compounding business: 32% average return on capital over 4 years, growing revenue 15% a year",7,1793526734
+BHARATFORG.NS,116.45226,8.583776,,76.475,False,,6,1793526735
+BHEL.NS,46.868195,5.0398536,0.11255,22.496,False,,8,1793526736
+BPCL.NS,7.7041645,1.1999073,0.16174999,62.165,False,,7,1793526737
+BHARTIARTL.NS,41.25627,7.6063957,0.20151,100.415,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 15% a year",7,1793526738
+BHARTIHEXA.NS,44.86427,11.4176855,,85.654,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 12% a year",8,1793526739
+GROWW.NS,44.74766,12.267487,,3.028,False,,2,1793526740
+BIOCON.NS,104.08283,1.6741459,,42.145,False,,6,1793526741
+BSOFT.NS,14.782608,2.1949644,,3.422,False,,5,1793526743
+BBOX.NS,61.10046,10.989049,,89.594,False,,5,1793526744
+BLUESTARCO.NS,62.65974,9.59315,0.16178,22.339,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 16% a year",6,1793526745
+BOSCHLTD.NS,58.906483,9.377441,,0.8,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 10% a year",6,1793526746
+FIRSTCRY.NS,,1.5723953,,29.762,False,,6,1793526747
+BRIGADE.NS,23.700539,2.4011152,0.11078,82.897,False,,4,1793526748
+BRITANNIA.NS,42.91925,21.886173,,26.875,False,,8,1793526749
+BIRET.NS,35.462986,1.1266515,,,False,,5,1793526750
+CCL.NS,26.920856,4.672686,0.19443001,46.024,False,,8,1793526751
+CESC.NS,10.652137,1.319199,,164.311,False,,5,1793526752
+CGPOWER.NS,92.201836,14.4679785,0.16371,1.885,True,"Consistently profitable, compounding business: 38% average return on capital over 4 years, growing revenue 21% a year",5,1793526753
+CIEINDIA.NS,14.453093,1.7285559,,6.63,False,,6,1793526754
+CRISIL.NS,36.873215,10.096458,,10.23,False,,5,1793526756
+CANFINHOME.NS,8.310429,1.4934076,0.19409999,608.658,False,,5,1793526757
+CANBK.NS,5.2309747,0.83322704,0.1512,,False,,4,1793526758
+CANHLIFE.NS,86.106384,7.08798,0.08396,15.256,False,,3,1793526759
+CAPLIPOINT.NS,26.64528,5.033505,,0.127,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 14% a year",5,1793526760
+CGCL.NS,16.966839,2.7824574,0.17907,383.398,False,,4,1793526761
+CARBORUNIV.NS,93.15552,5.032654,,10.292,False,,6,1793526762
+CARTRADE.NS,47.377758,4.024487,0.09747,4.615,False,,8,1793526763
+CASTROLIND.NS,18.41332,9.756098,,2.784,False,,7,1793526765
+CEATLTD.NS,24.139494,2.5079856,0.10792,81.807,False,,7,1793526766
+CEMPRO.NS,36.122215,9.056155,,37.711,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 25% a year",7,1793526767
+CENTRALBK.NS,5.400376,0.62519044,0.1201,,False,,5,1793526768
+CDSL.NS,56.00887,13.469271,,0.11,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 27% a year",6,1793526769
+CMPDI.NS,18.964931,5.212033,,0.049,True,"Consistently profitable, compounding business: 39% average return on capital over 4 years, growing revenue 19% a year",6,1793526770
+CHAMBLFERT.NS,7.353002,1.3605939,,10.274,False,,5,1793526771
+CHENNPETRO.NS,3.947506,1.6558105,0.50865,16.197,False,,6,1793526772
+CHOICEIN.NS,62.835365,8.533152,,49.768,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 42% a year",4,1793526773
+CHOLAHLDNG.NS,9.508831,1.6419139,,623.156,False,,4,1793526774
+CHOLAFIN.NS,21.731981,3.9224803,0.20577,671.801,False,,4,1793526775
+CIPLA.NS,38.473774,3.147218,0.08327,1.969,False,,5,1793526776
+CUB.NS,13.454774,1.8951559,0.14113,,False,,4,1793526777
+CLEANMAX.NS,91.02564,3.1363194,,231.875,False,,7,1793526778
+CLEAN.NS,32.660885,4.8019433,0.14706999,0.128,False,,5,1793526779
+COALINDIA.NS,7.1850758,1.881281,0.28326,12.018,False,,6,1793526781
+COCHINSHIP.NS,43.085842,4.9910183,,28.466,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 27% a year",5,1793526782
+COFORGE.NS,40.12164,4.052948,0.13347,26.74,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 27% a year",6,1793526783
+COHANCE.NS,162.74725,4.3544307,,9.928,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 18% a year",5,1793526784
+COLPAL.NS,31.88536,26.8396,0.85115,3.012,False,,5,1793526785
+CAMS.NS,31.836334,11.249957,0.382,4.104,True,"Consistently profitable, compounding business: 51% average return on capital over 4 years, growing revenue 16% a year",7,1793526786
+CONCORDBIO.NS,46.63422,6.375497,0.14332,0.084,False,,6,1793526787
+CONCOR.NS,25.26557,2.435386,,7.39,False,,6,1793526788
+COROMANDEL.NS,27.30639,3.9772902,,11.469,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 10% a year",5,1793526789
+CRAFTSMAN.NS,47.916958,4.874477,0.12347,70.635,False,,6,1793526790
+CREDITACC.NS,10.383445,1.8408449,0.1973,282.89,False,,5,1793526792
+CROMPTON.NS,,4.073712,-0.04422,5.783,False,,6,1793526793
+CUMMINSIND.NS,52.14428,14.563259,,0.431,True,"Consistently profitable, compounding business: 33% average return on capital over 4 years, growing revenue 16% a year",7,1793526794
+CUPID.NS,324.55,96.67857,,12.506,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 31% a year",5,1793526795
+CYIENT.NS,33.39906,2.3417768,0.0694,49.22,False,,5,1793526796
+DLF.NS,37.50271,3.7602222,0.10311,0.69,False,,5,1793526797
+DOMS.NS,51.12139,9.071643,,10.849,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 24% a year",7,1793526798
+DABUR.NS,32.936935,5.6785173,,10.907,False,,7,1793526799
+DALBHARAT.NS,50.792797,1.3934711,0.02836,57.098,False,,6,1793526800
+DATAPATTNS.NS,79.39825,12.254783,,0.304,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 27% a year",7,1793526801
+DEEPAKFERT.NS,14.112365,2.0294962,,75.969,False,,5,1793526802
+DEEPAKNTR.NS,19.509502,3.1997676,0.17601,27.026,False,,4,1793526803
+DELHIVERY.NS,159.50412,2.9829986,,15.098,False,,6,1793526804
+DEVYANI.NS,,9.628149,,203.327,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 23% a year",5,1793526805
+DIVISLAB.NS,88.73968,15.4900255,,0.042,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 11% a year",5,1793526806
+DIXON.NS,38.394417,9.535045,0.30622,18.377,True,"Consistently profitable, compounding business: 39% average return on capital over 4 years, growing revenue 59% a year",7,1793526807
+LALPATHLAB.NS,58.839504,12.691735,,7.83,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 11% a year",7,1793526808
+DRREDDY.NS,40.250072,2.9165587,0.07342,18.565,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 11% a year",5,1793526809
+DUMMYHEG.NS,,,,,False,,0,1793526810
+EIDPARRY.NS,23.058756,1.2148097,,23.647,False,,6,1793526812
+EIHOTEL.NS,25.162567,3.4029734,,4.666,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 13% a year",6,1793526813
+EMBASSY.NS,92.711784,1.7022139,,,False,,6,1793526814
+EICHERMOT.NS,34.356415,7.890581,,2.048,True,"Consistently profitable, compounding business: 27% average return on capital over 4 years, growing revenue 17% a year",6,1793526815
+ELECON.NS,38.473877,3.7569253,0.10295,14.401,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 16% a year",5,1793526816
+ELGIEQUIP.NS,35.94986,7.1899714,,23.885,False,,7,1793526817
+EMAMILTD.NS,20.976677,5.3704453,,5.541,False,,5,1793526819
+EMCURE.NS,35.08529,7.1682425,,30.567,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 15% a year",6,1793526820
+EMMVEE.NS,11.014911,3.610279,0.53055,25.243,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 103% a year",7,1793526821
+ENDURANCE.NS,32.971718,4.6746325,,19.393,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 18% a year",6,1793526822
+ENGINERSIN.NS,15.780075,4.51142,,0.534,False,,7,1793526823
+ESCORTS.NS,20.502943,2.3296356,,1.309,False,,7,1793526824
+ETERNAL.NS,648.39624,9.810722,0.01588,18.412,False,,5,1793526825
+EXIDEIND.NS,30.611313,2.050909,,11.308,False,,7,1793526826
+NYKAA.NS,392.5281,69.56392,,82.829,False,,7,1793526827
+FEDERALBNK.NS,16.586916,1.9616902,0.13272001,,False,,6,1793526828
+FACT.NS,,31.362913,,295.147,False,,3,1793526829
+FINCABLES.NS,21.793156,2.8657112,,0.314,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 12% a year",5,1793526830
+FSL.NS,28.492218,4.148725,0.15663,59.879,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 17% a year",6,1793526832
+FIVESTAR.NS,10.490352,1.482194,0.15187,100.85,False,,4,1793526832
+FORCEMOT.NS,19.135143,4.93079,0.29333,,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 22% a year",8,1793526834
+FORTIS.NS,55.34222,5.86043,,34.15,False,,7,1793526835
+FRACTAL.NS,39.938763,3.9239228,,13.131,False,,7,1793526836
+GAIL.NS,8.745313,1.1410108,0.13597,24.939,False,,4,1793526837
+GVT&D.NS,78.48496,31.256317,0.53408,0.835,True,"Consistently profitable, compounding business: 34% average return on capital over 4 years, growing revenue 31% a year",8,1793526838
+GMRAIRPORT.NS,212.0,-38.072712,,,False,,8,1793526839
+GABRIEL.NS,66.96429,14.954821,0.15182,59.067,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 16% a year",6,1793526840
+GALLANTT.NS,33.059834,3.8619108,0.123100005,16.979,False,,7,1793526841
+GRSE.NS,27.806866,8.477924,,1.424,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 40% a year",5,1793526842
+GICRE.NS,6.143281,0.5924914,0.091079995,,False,,6,1793526843
+GILLETTE.NS,34.51858,24.365387,,0.002,True,"Consistently profitable, compounding business: 63% average return on capital over 4 years, growing revenue 11% a year",6,1793526844
+GLAND.NS,45.21542,4.9244213,,2.738,False,,8,1793526845
+GLAXO.NS,39.56067,18.635736,,1.467,False,,6,1793526846
+GLENMARK.NS,36.092007,6.1714206,,5.646,False,,8,1793526847
+MEDANTA.NS,61.426502,8.613897,,29.869,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 17% a year",6,1793526848
+GPIL.NS,15.135793,2.0392344,,7.582,False,,6,1793526849
+GODFRYPHLP.NS,19.276915,4.2436094,,3.757,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 22% a year",7,1793526850
+GODREJCP.NS,42.317642,6.6339564,0.15956001,39.999,False,,6,1793526852
+GODREJIND.NS,25.935799,2.726925,,222.411,False,,4,1793526853
+GODREJPROP.NS,35.0,2.4386299,0.06998,102.423,False,,4,1793526854
+GRANULES.NS,31.194279,4.0921893,,29.735,False,,6,1793526855
+GRAPHITE.NS,66.46978,2.4204197,,6.295,False,,5,1793526856
+GRASIM.NS,35.55635,1.9543294,,135.044,False,,5,1793526857
+GRAVITA.NS,25.400806,3.8206165,0.16174,32.913,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 15% a year",5,1793526858
+GESHIP.NS,6.0845327,1.3412752,,6.409,False,,7,1793526859
+FLUOROCHEM.NS,76.283,6.097577,,28.94,False,,6,1793526860
+GMDCLTD.NS,13.689724,1.8518851,0.09573,4.829,False,,4,1793526861
+HBLENGINE.NS,28.386007,9.919832,,3.021,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 34% a year",7,1793526863
+HCLTECH.NS,21.128866,5.1609216,0.24648,7.905,False,,7,1793526864
+HDBFS.NS,14.016025,1.8696864,0.14267999,471.457,False,,5,1793526865
+HDFCAMC.NS,33.355,11.492107,0.36407003,,True,"Consistently profitable, compounding business: 37% average return on capital over 4 years, growing revenue 24% a year",6,1793526866
+HDFCBANK.NS,15.143169,1.7546393,0.11005,,False,,6,1793526867
+HDFCLIFE.NS,55.427666,6.010191,0.11256,15.919,False,,4,1793526868
+HEGAM.NS,12.962902,0.9637279,,16.73,False,,6,1793526869
+HFCL.NS,40.364746,6.269381,0.18656,33.675,False,,5,1793526870
+HAVELLS.NS,38.256603,6.5094833,0.17998,2.44,False,,6,1793526871
+HEROMOTOCO.NS,17.24345,4.41815,0.26927,6.007,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 12% a year",8,1793526872
+HEXT.NS,21.97985,4.243767,0.20788,9.045,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 13% a year",5,1793526873
+HSCL.NS,30.005896,5.0035377,0.1851,22.36,False,,3,1793526874
+HINDALCO.NS,12.002442,1.4378726,,72.598,False,,4,1793526876
+HAL.NS,34.823505,7.9092226,,0.16,False,,7,1793526877
+HINDCOPPER.NS,34.143955,11.608747,,3.319,True,"Consistently profitable, compounding business: 23% average return on capital over 4 years, growing revenue 23% a year",8,1793526878
+HINDPETRO.NS,50.45185,1.3750873,0.02623,140.204,False,,8,1793526879
+HINDUNILVR.NS,41.398754,8.975383,0.21564,3.405,False,,6,1793526880
+HINDZINC.NS,10.259635,7.1314764,0.95413,22.209,False,,8,1793526881
+POWERINDIA.NS,105.48646,23.444584,,1.663,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 22% a year",7,1793526882
+HOMEFIRST.NS,18.218899,2.402241,0.14279,262.697,False,,4,1793526883
+HONASA.NS,58.018375,10.172104,,9.586,False,,6,1793526884
+HONAUT.NS,46.12569,5.5930314,0.12771,2.138,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 11% a year",5,1793526885
+HUDCO.NS,6.7295394,1.3029462,,645.775,False,,3,1793526887
+HYUNDAI.NS,33.94316,7.621684,0.24121,3.12,False,,7,1793526888
+ICICIBANK.NS,17.16812,2.5689602,0.1649,,False,,6,1793526889
+ICICILIFE.NS,33.85632,4.063953,0.12922,17.734,False,,4,1793526890
+ICICIGI.NS,31.050875,3.7804344,0.13627,0.16,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 15% a year",5,1793526891
+ICICIAMC.NS,37.85874,25.046959,0.76232004,,True,"Consistently profitable, compounding business: 97% average return on capital over 4 years, growing revenue 29% a year",4,1793526892
+IDBI.NS,10.390686,1.1913556,0.11817,,False,,6,1793526893
+IDFCFIRSTB.NS,20.869564,1.2489809,0.06255,,False,,5,1793526894
+IFCI.NS,85.421875,1.6160691,,22.723,False,,6,1793526895
+IIFL.NS,9.059925,1.4558071,0.16597,490.049,False,,4,1793526897
+INOXINDIA.NS,66.435715,15.107119,,7.251,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 18% a year",5,1793526898
+IRB.NS,19.911392,0.8898065,,95.6,False,,5,1793526899
+IRCON.NS,14.707762,1.3670896,,85.833,False,,3,1793526900
+ITCHOTELS.NS,37.31473,2.9511871,0.08214,0.711,False,,7,1793526901
+ITC.NS,16.767677,4.589677,,3.293,False,,4,1793526902
+ITI.NS,117.36413,10.903811,,40.144,False,,5,1793526903
+INDIACEM.NS,79.01266,0.9512576,0.01209,15.935,False,,6,1793526905
+INDIAMART.NS,17.881447,3.861092,0.22517,0.868,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 17% a year",6,1793526906
+INDIANB.NS,8.819933,1.3419499,0.16139999,,False,,6,1793526907
+IEX.NS,17.189098,6.166728,0.38612998,0.599,True,"Consistently profitable, compounding business: 49% average return on capital over 4 years, growing revenue 15% a year",6,1793526908
+INDHOTEL.NS,52.263363,8.469951,0.16541,22.018,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 19% a year",7,1793526909
+IOC.NS,5.325286,0.8163867,0.22622,58.206,False,,7,1793526910
+IOB.NS,8.379008,1.370987,0.17863001,,False,,5,1793526911
+IRCTC.NS,25.040184,8.099226,,1.874,True,"Consistently profitable, compounding business: 49% average return on capital over 4 years, growing revenue 14% a year",5,1793526912
+IRFC.NS,13.008866,1.5814886,0.12627,715.064,False,,5,1793526914
+IREDA.NS,14.173789,1.9446508,0.14441,565.121,False,,4,1793526915
+IGL.NS,19.494398,1.6938447,0.086969994,0.803,False,,6,1793526916
+INDUSTOWER.NS,14.037105,2.528101,0.18832001,55.704,False,,7,1793526917
+INDUSINDBK.NS,21.794538,0.9611657,0.04513,,False,,5,1793526918
+NAUKRI.NS,43.783585,1.6699421,0.04445,0.495,False,,6,1793526919
+INFY.NS,15.778962,4.925345,0.29951,8.567,False,,7,1793526920
+INOXWIND.NS,22.904564,1.2938309,,20.631,False,,3,1793526921
+INTELLECT.NS,20.17393,2.1083884,0.111219995,2.733,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 11% a year",6,1793526923
+INDIGO.NS,,37.759045,-0.6012,1738.69,True,"Consistently profitable, compounding business: 101% average return on capital over 4 years, growing revenue 16% a year",5,1793526924
+IGIL.NS,26.712559,9.817594,,8.552,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 30% a year",7,1793526925
+IKS.NS,38.124863,10.180389,,26.873,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 46% a year",6,1793526926
+IPCALAB.NS,37.338757,6.065259,,8.492,False,,8,1793526927
+JKCEMENT.NS,38.598965,5.0336485,0.13616,101.329,False,,7,1793526928
+JBMA.NS,48.013348,6.7966456,0.1591,172.237,False,,5,1793526929
+JKTYRE.NS,17.374783,1.4144311,0.086490005,100.967,False,,6,1793526930
+JMFINANCIL.NS,9.915363,0.96719193,,102.435,False,,6,1793526931
+JSWCEMENT.NS,20.515097,2.3021266,0.11292,71.17,False,,6,1793526932
+JSWENERGY.NS,39.39764,2.4953494,0.07776,207.431,False,,5,1793526933
+JSWINFRA.NS,47.038692,4.1343503,0.098780006,44.645,False,,5,1793526935
+JSWSTEEL.NS,10.713672,2.683864,0.31928,61.529,False,,8,1793526936
+JAINREC.NS,25.543993,6.101695,,81.887,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 45% a year",5,1793526937
+JPPOWER.NS,23.127274,1.1243702,0.03793,23.023,False,,7,1793526938
+J&KBANK.NS,5.468502,0.7354621,0.14542,,False,,3,1793526939
+JINDALSAW.NS,26.548311,1.1494457,0.04125,33.946,False,,6,1793526940
+JSL.NS,16.67079,2.6147645,0.16900998,35.926,False,,6,1793526941
+JINDALSTEL.NS,37.832443,2.0622482,0.054640003,41.616,False,,7,1793526942
+JIOFIN.NS,77.75665,1.0533527,0.012949999,31.949,False,,3,1793526943
+JUBLFOOD.NS,75.60932,12.1054735,,205.318,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 20% a year",7,1793526944
+JUBLINGREA.NS,25.26697,2.6537528,0.110290006,26.996,False,,7,1793526945
+JWL.NS,48.345745,2.62593,,33.365,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 12% a year",3,1793526946
+JYOTICNC.NS,64.04526,10.297228,,42.609,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 31% a year",5,1793526947
+KPRMILL.NS,36.652416,6.1313853,0.17977,5.474,False,,7,1793526948
+KEI.NS,34.157833,5.407607,,3.796,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 19% a year",6,1793526949
+KPITTECH.NS,27.192308,3.915596,0.15335,20.694,True,"Consistently profitable, compounding business: 34% average return on capital over 4 years, growing revenue 24% a year",5,1793526951
+KSB.NS,46.177303,6.6686463,0.15192,0.371,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 14% a year",4,1793526952
+KAJARIACER.NS,29.251055,5.834609,0.19986,13.274,False,,8,1793526953
+KPIL.NS,20.100674,2.937579,,45.814,False,,7,1793526954
+KALYANKJIL.NS,35.90483,8.142444,,96.966,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 36% a year",7,1793526955
+KARURVYSYA.NS,11.641059,2.235882,0.20989001,,False,,4,1793526957
+KAYNES.NS,61.045036,4.5158544,,19.168,False,,3,1793526958
+KEC.NS,15.848558,1.4246325,,87.306,False,,4,1793526959
+KFINTECH.NS,42.354404,9.063119,0.22589001,4.632,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 22% a year",6,1793526960
+KIRLOSBROS.NS,33.821793,4.952188,0.15831,11.174,False,,5,1793526961
+KIRLOSENG.NS,47.92156,7.2113123,,154.864,False,,8,1793526962
+KOTAKBANK.NS,21.390177,2.3546216,0.11835,,False,,5,1793526963
+KIMS.NS,137.60785,12.495326,,166.226,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 21% a year",5,1793526965
+LTF.NS,17.931034,2.0932543,0.12331,422.732,False,,3,1793526966
+LTTS.NS,33.57283,6.4131308,0.20207001,7.863,False,,7,1793526967
+LGEINDIA.NS,61.785053,14.711378,,5.99,False,,1,1793526968
+LICHSGFIN.NS,4.7321,0.65549874,0.14310999,626.752,False,,4,1793526969
+LTFOODS.NS,20.068747,2.6885912,0.14446001,36.657,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 16% a year",6,1793526970
+LTM.NS,24.030766,4.8509927,0.21041,9.186,False,,5,1793526972
+LT.NS,29.8236,4.7128606,0.17875,105.287,False,,7,1793526973
+LAURUSLABS.NS,97.07425,21.447615,0.23973,42.471,False,,8,1793526974
+LEMONTREE.NS,36.791245,6.2162933,,96.367,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 16% a year",8,1793526975
+LENSKART.NS,182.80324,13.476403,,34.983,False,,5,1793526976
+LICI.NS,8.068421,2.745167,,0.431,False,,4,1793526977
+LINDEINDIA.NS,88.221985,11.296809,,1.85,False,,6,1793526978
+LLOYDSME.NS,21.421196,7.4058,,145.214,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 71% a year",3,1793526979
+LODHA.NS,23.866512,4.096871,0.18639,41.126,False,,6,1793526980
+LUPIN.NS,16.657003,4.095581,,29.388,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 19% a year",8,1793526981
+MMTC.NS,17.156462,3.5686996,,0.114,False,,6,1793526983
+MRF.NS,20.506918,2.361239,,15.288,False,,8,1793526984
+MTARTECH.NS,111.25935,22.554184,0.22548,50.95,False,,6,1793526985
+MGL.NS,14.478045,1.6113416,,3.461,False,,6,1793526986
+M&MFIN.NS,10.112057,1.3239238,0.13774,490.012,False,,4,1793526987
+M&M.NS,17.290436,3.4096215,,125.278,False,,6,1793526988
+MANAPPURAM.NS,17.784615,1.6913146,,360.191,False,,1,1793526989
+MRPL.NS,6.8737593,2.1375225,,108.059,False,,7,1793526990
+MANKIND.NS,45.958702,5.854516,0.1356,30.365,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 18% a year",6,1793526991
+MARICO.NS,54.945053,24.667757,,12.394,True,"Consistently profitable, compounding business: 47% average return on capital over 4 years, growing revenue 12% a year",6,1793526992
+MARUTI.NS,26.639086,3.2872136,0.12888,0.076,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 16% a year",6,1793526993
+MFSL.NS,223.4637,7.799602,,36.453,False,,5,1793526994
+MAXHEALTH.NS,60.86341,7.3920627,0.12791,32.905,False,,8,1793526996
+MAZDOCK.NS,28.047699,6.5768824,0.23207001,7.589,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 20% a year",5,1793526997
+MEESHO.NS,,25.079845,-0.36481,1.161,False,,4,1793526998
+MINDACORP.NS,30.188543,5.6409826,,55.351,False,,8,1793526999
+MSUMI.NS,33.788464,10.77914,,10.788,True,"Consistently profitable, compounding business: 47% average return on capital over 4 years, growing revenue 18% a year",7,1793527000
+MOTILALOFS.NS,21.403091,3.651337,0.18935,172.269,False,,3,1793527001
+MPHASIS.NS,25.266108,4.251444,0.17743999,24.675,False,,5,1793527002
+MCX.NS,66.59983,19.286201,,0.113,True,"Consistently profitable, compounding business: 29% average return on capital over 4 years, growing revenue 68% a year",6,1793527003
+MUTHOOTFIN.NS,8.5025425,2.38164,0.31735,393.56,False,,4,1793527004
+NATCOPHARM.NS,12.346537,1.5194535,,7.742,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 14% a year",4,1793527005
+NBCC.NS,25.423359,6.2615733,,0.008,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 13% a year",6,1793527006
+NCC.NS,10.279174,0.9136534,,57.389,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 11% a year",3,1793527007
+NHPC.NS,20.566137,1.8892318,,113.111,False,,5,1793527008
+NLCINDIA.NS,9.66709,1.4683526,,110.358,False,,7,1793527010
+NMDC.NS,7.931684,1.7349409,,18.802,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 22% a year",6,1793527011
+NSLNISP.NS,129.86208,0.8361271,,35.019,False,,7,1793527012
+NTPCGREEN.NS,107.06494,3.6628606,,165.281,False,,5,1793527013
+NTPC.NS,11.046105,1.5099502,0.14458,126.0,False,,6,1793527014
+NH.NS,40.437233,7.7000895,0.19069,121.375,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 21% a year",6,1793527015
+NATIONALUM.NS,8.556855,2.6736307,,0.277,False,,7,1793527016
+NAVA.NS,19.027674,1.6464953,,20.684,False,,6,1793527017
+NAVINFLUOR.NS,48.94001,11.192072,,32.091,False,,7,1793527018
+NESTLEIND.NS,55.177307,38.920757,0.79863,8.035,True,"Consistently profitable, compounding business: 128% average return on capital over 3 years, growing revenue 17% a year",5,1793527019
+NETWEB.NS,65.22745,11.512081,0.27276,15.817,True,"Consistently profitable, compounding business: 34% average return on capital over 4 years, growing revenue 70% a year",5,1793527020
+NEULANDLAB.NS,50.777122,13.48373,,16.072,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 19% a year",5,1793527021
+NAM-INDIA.NS,36.403862,12.138202,0.35324,1.614,True,"Consistently profitable, compounding business: 36% average return on capital over 4 years, growing revenue 26% a year",6,1793527022
+NUVAMA.NS,29.936195,7.6661854,,282.325,False,,3,1793527023
+NUVOCO.NS,27.620687,1.208122,0.04224,53.279,False,,7,1793527024
+OBEROIRLTY.NS,22.760576,3.135659,0.14687,13.82,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 13% a year",6,1793527025
+ONGC.NS,6.514162,0.7627411,,42.548,False,,7,1793527026
+OIL.NS,8.839563,1.2730708,,58.741,False,,5,1793527027
+OLAELEC.NS,,4.381355,,82.453,False,,3,1793527028
+OLECTRA.NS,44.012028,6.363363,,30.841,True,"Consistently profitable, compounding business: 15% average return on capital over 4 years, growing revenue 28% a year",5,1793527029
+PAYTM.NS,123.99848,6.3195305,0.053439997,1.589,False,,4,1793527030
+ONESOURCE.NS,,3.0288758,-0.00027000002,29.638,False,,4,1793527031
+OFSS.NS,24.477152,11.320109,0.47409,0.468,True,"Consistently profitable, compounding business: 40% average return on capital over 4 years, growing revenue 10% a year",6,1793527032
+POLICYBZR.NS,57.742493,5.950886,0.110740006,5.276,False,,6,1793527033
+PCBL.NS,41.772247,2.7199428,,124.132,False,,4,1793527034
+PGEL.NS,70.39176,4.961157,,19.567,False,,5,1793527035
+PIIND.NS,27.343748,2.8367643,,3.048,False,,4,1793527036
+PNBHOUSING.NS,11.783015,1.3646938,0.12297,305.73,False,,4,1793527037
+PTCIL.NS,285.9446,23.350336,0.0859,17.821,False,,4,1793527038
+PVRINOX.NS,34.197163,1.9846942,0.06,85.371,False,,8,1793527040
+PAGEIND.NS,50.911236,25.609543,,18.422,False,,6,1793527041
+PARADEEP.NS,15.763127,1.9760306,,101.822,False,,4,1793527042
+PATANJALI.NS,20.146328,3.028555,,21.295,False,,5,1793527043
+PERSISTENT.NS,52.90413,11.107499,0.22918,6.696,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 21% a year",6,1793527044
+PETRONET.NS,10.317178,1.9482617,,10.507,False,,6,1793527045
+PHOENIXLTD.NS,53.621918,6.369932,0.12944001,54.31,False,,7,1793527046
+PWL.NS,1612.3751,8.219065,,23.018,True,"Consistently profitable, compounding business: 38% average return on capital over 4 years, growing revenue 74% a year",7,1793527047
+PIDILITIND.NS,55.510822,13.263278,0.2566,3.069,False,,8,1793527048
+PINELABS.NS,110.2518,2.9756126,0.03287,5.859,False,,8,1793527049
+PIRAMALFIN.NS,21.744854,1.3356267,0.06513,275.204,False,,5,1793527050
+PPLPHARMA.NS,,4.093238,-0.02579,71.93,False,,3,1793527051
+POLYMED.NS,46.66774,4.730158,,11.227,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 19% a year",4,1793527052
+POLYCAB.NS,37.10569,8.961586,0.26767,2.054,True,"Consistently profitable, compounding business: 24% average return on capital over 4 years, growing revenue 27% a year",6,1793527053
+POONAWALLA.NS,36.098515,2.946846,0.09206,431.207,False,,4,1793527055
+PFC.NS,3.9731407,0.72406214,,536.837,True,"Consistently profitable, compounding business: 88% average return on capital over 4 years, growing revenue 16% a year",5,1793527056
+POWERGRID.NS,15.497076,2.4525454,,150.813,False,,5,1793527057
+PREMIERENE.NS,23.548388,9.161551,,86.005,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 76% a year",5,1793527058
+PRESTIGE.NS,54.94518,3.8467648,0.07752,105.493,False,,6,1793527059
+PFOCUS.NS,161.85394,10.717209,,224.567,False,,7,1793527060
+PRIVISCL.NS,33.70444,7.9803696,0.25929,61.888,False,,8,1793527061
+PNB.NS,6.1889167,0.87743104,0.15059,,False,,5,1793527062
+RRKABEL.NS,34.607742,7.6519346,0.24992001,18.999,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 20% a year",5,1793527063
+RBLBANK.NS,25.34296,1.2501602,0.04045,,False,,5,1793527064
+RECLTD.NS,4.9921346,0.7896396,0.16898,606.306,False,,4,1793527065
+RHIM.NS,,2.020079,,12.595,False,,4,1793527066
+RITES.NS,21.716263,3.3802512,,0.236,False,,7,1793527067
+RADICO.NS,68.7418,14.921226,0.23958999,10.744,False,,8,1793527068
+RVNL.NS,41.686775,3.8140829,,49.078,False,,4,1793527069
+RAILTEL.NS,21.080568,3.0198927,0.15138,2.548,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 30% a year",7,1793527070
+RAINBOW.NS,43.354675,7.5099983,,53.558,True,"Consistently profitable, compounding business: 28% average return on capital over 4 years, growing revenue 13% a year",6,1793527072
+RKFORGE.NS,63.733994,3.5673323,0.05613,63.959,False,,6,1793527073
+REDINGTON.NS,15.025276,2.5155807,,27.26,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 15% a year",5,1793527074
+RELIANCE.NS,19.19743,1.6691121,0.08759,35.785,False,,6,1793527075
+RPOWER.NS,,0.46181217,,92.348,False,,5,1793527076
+RUBICON.NS,92.77074,20.629715,,24.131,False,,1,1793527077
+SBICARD.NS,19.160583,2.9098446,0.16319999,278.65,False,,6,1793527078
+SBILIFE.NS,62.683296,8.1082535,0.13676,,False,,2,1793527079
+SJVN.NS,21.186508,1.4735185,0.06684,224.705,False,,6,1793527080
+SHRIPISTON.NS,33.299835,6.6407933,,65.22,True,"Consistently profitable, compounding business: 23% average return on capital over 4 years, growing revenue 20% a year",5,1793527081
+SRF.NS,30.327229,4.522359,0.15981,35.123,False,,7,1793527082
+SAGILITY.NS,19.127274,1.9169097,0.10735,8.819,False,,7,1793527083
+SAILIFE.NS,91.99645,13.258704,,11.614,False,,5,1793527084
+SAMMAANCAP.NS,,0.5025139,,273.033,False,,0,1793527086
+MOTHERSON.NS,37.710842,4.021896,,43.908,False,,6,1793527087
+SANSERA.NS,79.20632,8.287344,,19.023,False,,7,1793527088
+SARDAEN.NS,13.755071,2.1078377,,35.204,True,"Consistently profitable, compounding business: 16% average return on capital over 4 years, growing revenue 10% a year",8,1793527089
+SCHAEFFLER.NS,42.54762,9.236646,0.21645,0.783,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 12% a year",7,1793527090
+SCHNEIDER.NS,141.88556,33.64581,,70.795,True,"Consistently profitable, compounding business: 40% average return on capital over 4 years, growing revenue 18% a year",7,1793527091
+SCI.NS,7.0351176,1.2509598,,29.454,False,,6,1793527092
+SHREECEM.NS,52.39712,3.47716,0.06852,9.112,False,,8,1793527093
+SHRIRAMFIN.NS,13.719167,1.7376629,0.1475,146.073,False,,4,1793527094
+SHYAMMETL.NS,29.021713,2.87527,0.10938,10.28,False,,6,1793527095
+ENRIN.NS,67.08064,20.747204,,4.483,False,,8,1793527096
+SIEMENS.NS,80.97573,8.498912,,2.213,False,,6,1793527097
+SIGNATURE.NS,9.467655,5.337173,,161.04,False,,6,1793527099
+SOBHA.NS,62.995518,2.5423977,0.04089,32.991,False,,7,1793527100
+SOLARINDS.NS,85.43513,27.10148,,23.271,True,"Consistently profitable, compounding business: 31% average return on capital over 4 years, growing revenue 12% a year",6,1793527101
+SONACOMS.NS,74.208336,8.653865,0.11879,10.085,True,"Consistently profitable, compounding business: 18% average return on capital over 4 years, growing revenue 19% a year",6,1793527102
+STARHEALTH.NS,29.664433,4.1329656,0.09466,0.725,False,,4,1793527103
+SBIN.NS,10.309217,1.4275452,0.15177,,False,,3,1793527104
+SAIL.NS,11.864407,1.0631624,0.09278,50.327,False,,7,1793527105
+STLTECH.NS,59.963634,9.329561,0.2292,21.77,False,,7,1793527107
+SUMICHEM.NS,28.13393,4.26826,0.162,1.507,False,,5,1793527108
+SUNPHARMA.NS,38.89934,4.770441,0.13104,3.619,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 10% a year",5,1793527109
+SUNTV.NS,15.542337,1.8936878,0.11924,0.802,False,,6,1793527110
+SUNDARMFIN.NS,19.568996,2.9399128,,409.161,False,,3,1793527111
+SUPREMEIND.NS,35.409172,6.2583447,0.18656,1.245,False,,5,1793527112
+SUZLON.NS,20.670732,4.4835343,0.2491,6.548,True,"Consistently profitable, compounding business: 44% average return on capital over 4 years, growing revenue 41% a year",7,1793527113
+SWANCORP.NS,33.483063,0.9456054,,24.561,False,,3,1793527115
+SWIGGY.NS,,2.7811463,-0.26734,14.814,False,,5,1793527116
+SYNGENE.NS,87.164505,3.335929,0.0388,10.443,False,,6,1793527117
+SYRMA.NS,74.282455,10.938226,0.14868,24.492,False,,6,1793527118
+TBOTEK.NS,62.30988,10.56646,,48.762,True,"Consistently profitable, compounding business: 31% average return on capital over 4 years, growing revenue 37% a year",2,1793527119
+TDPOWERSYS.NS,81.125,20.810984,0.28465998,1.689,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 29% a year",5,1793527120
+TVSMOTOR.NS,52.081936,17.565634,0.3723,320.877,False,,6,1793527121
+TATACAP.NS,22.736319,2.7726016,0.14064,518.106,False,,2,1793527122
+TATACHEM.NS,,0.7155188,,36.081,False,,3,1793527123
+TATACOMM.NS,43.336784,14.045942,0.3376,371.497,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 12% a year",6,1793527124
+TCS.NS,17.542408,7.609833,0.45573002,9.83,False,,5,1793527125
+TATACONSUM.NS,59.749565,4.585889,0.0759,10.772,False,,7,1793527126
+TATAELXSI.NS,35.232872,8.104819,0.23868,4.903,False,,6,1793527127
+TATAINVEST.NS,95.71428,0.97446615,,0.007,False,,5,1793527128
+TMCV.NS,23.110788,9.55682,,24.605,False,,6,1793527129
+TMPV.NS,,0.87206244,,70.364,False,,4,1793527130
+TATAPOWER.NS,28.587406,2.7929547,,168.051,False,,5,1793527132
+TATASTEEL.NS,18.937853,2.0478482,,89.017,False,,7,1793527133
+TATATECH.NS,46.688313,6.8593054,0.15218,28.96,False,,5,1793527134
+TTML.NS,22.431374,-0.33574313,,,False,,5,1793527135
+TECHM.NS,28.781742,5.3471246,0.19186,7.249,False,,8,1793527136
+TECHNOE.NS,22.377226,2.3193245,,1.744,False,,3,1793527137
+TEGA.NS,444.1161,3.711429,,11.693,True,"Consistently profitable, compounding business: 15% average return on capital over 4 years, growing revenue 12% a year",6,1793527138
+TEJASNET.NS,,2.8390956,-0.2794,196.624,False,,2,1793527139
+TENNIND.NS,28.992613,14.541229,,4.289,False,,8,1793527140
+THANGAMAYL.NS,35.413353,9.778979,,64.492,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 39% a year",6,1793527141
+NIACL.NS,33.96154,0.6796142,-0.012359999,,False,,4,1793527142
+RAMCOCEM.NS,26.380133,2.1010392,,47.897,False,,8,1793527144
+THERMAX.NS,59.099884,6.3183794,,42.166,False,,4,1793527145
+TIMKEN.NS,47.312542,6.8444657,0.15363,0.431,False,,6,1793527146
+TITAGARH.NS,46.791847,3.6205297,,25.363,False,,6,1793527147
+TITAN.NS,68.38009,25.08226,,195.001,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 29% a year",7,1793527148
+TORNTPHARM.NS,77.929054,9.543471,0.15653,76.781,True,"Consistently profitable, compounding business: 21% average return on capital over 4 years, growing revenue 13% a year",5,1793527149
+TORNTPOWER.NS,25.436998,3.0983937,,70.885,False,,4,1793527150
+TARIL.NS,29.389162,5.414677,0.20497,34.449,True,"Consistently profitable, compounding business: 17% average return on capital over 4 years, growing revenue 21% a year",6,1793527151
+TRENT.NS,84.874825,20.701887,0.27062,29.486,True,"Consistently profitable, compounding business: 37% average return on capital over 4 years, growing revenue 35% a year",6,1793527152
+TRIDENT.NS,27.141027,2.2622356,,38.323,False,,5,1793527153
+TRITURBINE.NS,44.4702,10.319202,,2.476,True,"Consistently profitable, compounding business: 36% average return on capital over 4 years, growing revenue 20% a year",5,1793527155
+TIINDIA.NS,67.79661,5.2936473,,5.363,True,"Consistently profitable, compounding business: 25% average return on capital over 4 years, growing revenue 15% a year",7,1793527156
+UCOBANK.NS,9.268907,0.79558563,0.08898,,False,,5,1793527157
+UNOMINDA.NS,52.01826,9.152245,,37.74,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 20% a year",7,1793527158
+UPL.NS,21.274347,1.2490025,,57.128,False,,7,1793527159
+UTIAMC.NS,21.709082,2.3609684,0.10973,3.129,True,"Consistently profitable, compounding business: 19% average return on capital over 4 years, growing revenue 11% a year",5,1793527160
+ULTRACEMCO.NS,36.934856,4.41524,0.114980005,37.694,False,,8,1793527161
+UNIONBANK.NS,6.4538517,0.99508876,0.16291,,False,,3,1793527162
+UBL.NS,64.42686,6.8392267,0.108610004,24.508,False,,5,1793527163
+UNITDSPR.NS,56.274258,10.447609,0.19247,4.743,False,,7,1793527164
+URBANCO.NS,,11.736559,-0.21533,7.15,False,,3,1793527165
+USHAMART.NS,25.538374,4.1107,,6.922,False,,8,1793527166
+VTL.NS,16.330198,1.3160104,,17.52,False,,5,1793527167
+VBL.NS,135.64014,6.771346,,15.869,True,"Consistently profitable, compounding business: 22% average return on capital over 4 years, growing revenue 17% a year",8,1793527168
+VAML.NS,21.004715,6.047163,,105.473,False,,3,1793527169
+VISL.NS,,-3.4412956,,,False,,3,1793527170
+VEDL.NS,8.34444,7.2776775,0.48202,134.123,False,,8,1793527172
+VOGL.NS,17.678362,0.64200306,,15.154,False,,4,1793527173
+VEDPOWER.NS,,0.993582,0.00875,64.8,False,,5,1793527174
+VIJAYA.NS,79.47773,15.534971,,44.15,True,"Consistently profitable, compounding business: 27% average return on capital over 4 years, growing revenue 21% a year",7,1793527175
+VMM.NS,44.421055,4.9632463,0.12133,26.886,False,,7,1793527176
+IDEA.NS,3.4289854,-3.5848484,,,False,,5,1793527177
+VOLTAS.NS,75.75534,5.334662,,15.51,False,,4,1793527178
+WAAREEENER.NS,17.976126,4.137827,0.26746,30.592,True,"Consistently profitable, compounding business: 30% average return on capital over 4 years, growing revenue 58% a year",5,1793527179
+WELCORP.NS,26.09316,5.8105516,0.24476999,9.947,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 20% a year",5,1793527180
+WELSPUNLIV.NS,47.93873,4.2731476,,46.501,False,,5,1793527181
+WHIRLPOOL.NS,41.177956,2.4842088,,8.621,False,,5,1793527182
+WIPRO.NS,15.578162,2.4683845,0.15939,27.753,False,,6,1793527184
+WOCKPHARMA.NS,75.47042,6.3379927,,42.284,False,,7,1793527185
+YESBANK.NS,11.477272,0.8791782,0.08173,,False,,7,1793527186
+ZFCVINDIA.NS,2.2058592,6.480351,,1.485,False,,6,1793527187
+ZEEL.NS,36.284153,0.54372746,,2.26,False,,4,1793527188
+ZENTEC.NS,79.261475,7.5919724,,0.95,True,"Consistently profitable, compounding business: 26% average return on capital over 4 years, growing revenue 46% a year",6,1793527189
+ZENSARTECH.NS,15.6808195,2.5108664,0.17148,1.325,False,,5,1793527190
+ZYDUSLIFE.NS,27.757969,4.6226535,,42.304,True,"Consistently profitable, compounding business: 20% average return on capital over 4 years, growing revenue 17% a year",4,1793527191
+ZYDUSWELL.NS,78.16723,2.5271003,,54.974,False,,6,1793527192
+ECLERX.NS,20.27481,4.9072423,0.26197,17.502,True,"Consistently profitable, compounding business: 35% average return on capital over 4 years, growing revenue 16% a year",7,1793527193
